@@ -24,26 +24,41 @@ AuditMate is a multi-agent AI system that helps compliance and operations teams 
 
 ### 1. Clone / Navigate to the project
 ```bash
+git clone https://github.com/Jidnyashah/auditmate.git
 cd auditmate
 ```
 
-### 2. Install dependencies
+### 2. Create and Activate a Virtual Environment
+**On Windows (cmd/PowerShell):**
+```powershell
+python -m venv .venv
+.venv\Scripts\activate
+```
+**On macOS/Linux:**
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Add your API key
-Edit `.env`:
-```
+### 4. Add your API key
+Create or edit `.env` in the root directory:
+```env
 GOOGLE_API_KEY=your_actual_key_here
 ```
 
-### 4. Generate synthetic trade data
+### 5. Generate Synthetic Data
+Generate both trade and transaction datasets:
 ```bash
 python data/generate_trades.py
+python data/generate_customer_transactions.py
 ```
 
-### 5. Run the dashboard
+### 6. Run the Dashboard
 ```bash
 streamlit run ui/dashboard.py
 ```
@@ -54,7 +69,7 @@ streamlit run ui/dashboard.py
 
 ```
 auditmate/
-├── agents/
+├── compliance_agents/        # Formerly agents/
 │   ├── orchestrator.py       # Root ADK agent — routes all queries
 │   ├── anomaly_agent.py      # Trade Anomaly Detector
 │   ├── summary_agent.py      # Regulatory Summary Generator
@@ -69,6 +84,7 @@ auditmate/
 │
 ├── data/
 │   ├── generate_trades.py    # Synthetic trade data generator
+│   ├── generate_customer_transactions.py # Customer transaction generator
 │   ├── synthetic_trades.csv  # 500 trades, ~10% anomalies
 │   ├── compliance_rules.json # 10 compliance rules
 │   └── regulations/          # MiFID II, AML, Basel III text
@@ -77,6 +93,7 @@ auditmate/
 │   └── dashboard.py          # Streamlit dashboard (6 tabs)
 │
 ├── config.py                 # All config, paths, thresholds
+├── mcp_server.py             # Model Context Protocol server entrypoint
 ├── .env                      # API key (never commit!)
 └── requirements.txt
 ```
