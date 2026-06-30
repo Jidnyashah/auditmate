@@ -103,10 +103,10 @@ auditmate/
 ## Agent Design (Google ADK)
 
 ```
-Orchestrator Agent (Root)
-├── trade_anomaly_detector  ← 3 tools: detect, stats, filter-by-type
-├── regulatory_summary_generator ← 2 tools: generate, preview
-└── audit_trail_qa          ← 4 tools: setup KB, reg Q&A, trade Q&A, audit search
+Orchestrator Agent (Root - orchestrator.py)
+├── trade_anomaly_detector (anomaly_agent.py)  ← 3 tools: detect, stats, filter-by-type
+├── regulatory_summary_generator (summary_agent.py) ← 2 tools: generate, preview
+└── audit_trail_qa (qa_agent.py)          ← 4 tools: setup KB, reg Q&A, trade Q&A, audit search
 ```
 
 ---
