@@ -77,7 +77,7 @@ html, body, [class*="css"] {
     padding: 10px !important;
 }
 [data-testid="stFileUploader"] button {
-    background: linear-gradient(135deg, #0d6efd, #0a58ca) !important;
+    background: linear-gradient(135deg, #00796b, #00acc1) !important;
     color: white !important;
     border: none !important;
     border-radius: 8px !important;
@@ -86,7 +86,7 @@ html, body, [class*="css"] {
 }
 [data-testid="stFileUploader"] button:hover {
     transform: translateY(-1px) !important;
-    box-shadow: 0 4px 12px rgba(13, 110, 253, 0.4) !important;
+    box-shadow: 0 4px 12px rgba(0, 172, 193, 0.4) !important;
 }
 [data-testid="stFileUploader"] div, [data-testid="stFileUploader"] span {
     color: #495057 !important;
@@ -108,7 +108,7 @@ html, body, [class*="css"] {
 .metric-value {
     font-size: 2rem !important;
     font-weight: 700 !important;
-    background: linear-gradient(135deg, #0d6efd, #0a58ca) !important;
+    background: linear-gradient(135deg, #00796b, #00acc1) !important;
     -webkit-background-clip: text !important;
     -webkit-text-fill-color: transparent !important;
 }
@@ -126,11 +126,11 @@ html, body, [class*="css"] {
 
 /* Header banner */
 .header-banner {
-    background: linear-gradient(135deg, #1a237e 0%, #0d47a1 50%, #01579b 100%) !important;
+    background: linear-gradient(135deg, #e0f2f1 0%, #e0f7fa 100%) !important;
     border-radius: 16px !important;
     padding: 32px !important;
     margin-bottom: 24px !important;
-    border: 1px solid #1565c0 !important;
+    border: 1px solid #b2dfdb !important;
     position: relative !important;
     overflow: hidden !important;
 }
@@ -141,28 +141,28 @@ html, body, [class*="css"] {
     right: -10% !important;
     width: 300px !important;
     height: 300px !important;
-    background: radial-gradient(circle, rgba(255,255,255,0.05) 0%, transparent 70%) !important;
+    background: radial-gradient(circle, rgba(0, 150, 136, 0.05) 0%, transparent 70%) !important;
     border-radius: 50% !important;
 }
 .header-title {
     font-size: 2.2rem !important;
     font-weight: 700 !important;
-    color: #ffffff !important;
+    color: #004d40 !important;
     margin: 0 !important;
 }
 .header-subtitle {
     font-size: 1rem !important;
-    color: rgba(255,255,255,0.75) !important;
+    color: #00796b !important;
     margin-top: 8px !important;
 }
 .header-badge {
     display: inline-block !important;
-    background: rgba(255,255,255,0.15) !important;
-    border: 1px solid rgba(255,255,255,0.3) !important;
+    background: rgba(0, 150, 136, 0.1) !important;
+    border: 1px solid rgba(0, 150, 136, 0.3) !important;
     border-radius: 20px !important;
     padding: 4px 14px !important;
     font-size: 0.75rem !important;
-    color: #fff !important;
+    color: #004d40 !important;
     margin-top: 12px !important;
     margin-right: 8px !important;
 }
@@ -211,7 +211,7 @@ html, body, [class*="css"] {
     font-weight: 500 !important;
 }
 .stTabs [aria-selected="true"] {
-    background: linear-gradient(135deg, #0d6efd, #0a58ca) !important;
+    background: linear-gradient(135deg, #00796b, #00acc1) !important;
     color: #ffffff !important;
 }
 
@@ -220,7 +220,7 @@ html, body, [class*="css"] {
 
 /* Buttons */
 .stButton>button, .stFormSubmitButton>button, .stDownloadButton>button {
-    background: linear-gradient(135deg, #0d6efd, #0a58ca) !important;
+    background: linear-gradient(135deg, #00796b, #00acc1) !important;
     color: white !important;
     border: none !important;
     border-radius: 8px !important;
@@ -229,7 +229,7 @@ html, body, [class*="css"] {
 }
 .stButton>button:hover, .stFormSubmitButton>button:hover, .stDownloadButton>button:hover {
     transform: translateY(-1px) !important;
-    box-shadow: 0 4px 12px rgba(13, 110, 253, 0.4) !important;
+    box-shadow: 0 4px 12px rgba(0, 172, 193, 0.4) !important;
 }
 
 /* Alert boxes */
@@ -272,6 +272,8 @@ if "is_processing" not in st.session_state:
     st.session_state.is_processing = False
 if "pending_query" not in st.session_state:
     st.session_state.pending_query = None
+if "file_uploader_key" not in st.session_state:
+    st.session_state.file_uploader_key = 0
 if "resolved_trade_ids" not in st.session_state:
     st.session_state.resolved_trade_ids = set()
 
@@ -280,8 +282,11 @@ if "resolved_trade_ids" not in st.session_state:
 with st.sidebar:
     st.markdown("""
     <div style="text-align:left; padding: 8px 0; margin-bottom: 5px;">
-        <span style="font-size:1.6rem; font-weight:700; color:#0d6efd;">🏦 AuditMate</span>
-        <div style="font-size:0.75rem; color:#495057;">Regulatory Compliance Agent</div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0288d1" width="30" height="30" style="vertical-align: middle; margin-right: 6px; display: inline-block;">
+            <path d="M12 2L4 5v6.09c0 5.05 3.41 9.76 8 10.91 4.59-1.15 8-5.86 8-10.91V5l-8-3z"/>
+        </svg>
+        <span style="font-size:1.6rem; font-weight:700; color:#00796b; vertical-align: middle;">AuditMate</span>
+        <div style="font-size:0.75rem; color:#495057; margin-top: 4px;">Regulatory Compliance Agent</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -305,32 +310,41 @@ with st.sidebar:
 
     # PART 2: Trade Data and options
     st.markdown("**📂 Trade Data**")
-    uploaded = st.file_uploader("Upload CSV", type=["csv"], label_visibility="collapsed")
+    uploaded = st.file_uploader(
+        "Upload CSV",
+        type=["csv"],
+        label_visibility="collapsed",
+        key=f"file_uploader_{st.session_state.file_uploader_key}"
+    )
     st.markdown("<div style='font-size:0.85rem; color:#495057; margin-top:-8px; margin-bottom:12px;'>ℹ️ CSV limit: 200MB<br>📂 Paths: <code style='font-size:0.85rem; color:#155724;'>data/synthetic_trades.csv</code> or <code style='font-size:0.85rem; color:#155724;'>data/customer_transactions.csv</code></div>", unsafe_allow_html=True)
 
     if uploaded:
-        if st.session_state.get("loaded_filename") != uploaded.name:
-            try:
-                df = pd.read_csv(uploaded, parse_dates=["timestamp"])
-                if "customer_id" in df.columns or "amount_usd" in df.columns:
-                    df = df.rename(columns={
-                        "amount_usd": "notional",
-                        "customer_id": "trader_id",
-                        "account_type": "desk",
-                        "counterparty_name": "counterparty",
-                        "transaction_id": "trade_id",
-                        "channel": "venue"
-                    })
-                    df["instrument"] = df.get("transaction_type", "TXN")
-                    df["price"] = df["notional"]
-                    if "quantity" not in df.columns:
-                        df["quantity"] = 1
-                st.session_state.df = df
-                st.session_state.loaded_filename = uploaded.name
-                st.session_state.anomaly_results = None
-                st.session_state.rule_violations = None
-            except Exception as e:
-                st.error(f"Error: {e}")
+        try:
+            df = pd.read_csv(uploaded, parse_dates=["timestamp"])
+            if "customer_id" in df.columns or "amount_usd" in df.columns:
+                df = df.rename(columns={
+                    "amount_usd": "notional",
+                    "customer_id": "trader_id",
+                    "account_type": "desk",
+                    "counterparty_name": "counterparty",
+                    "transaction_id": "trade_id",
+                    "channel": "venue"
+                })
+                df["instrument"] = df.get("transaction_type", "TXN")
+                df["price"] = df["notional"]
+                if "quantity" not in df.columns:
+                    df["quantity"] = 1
+            st.session_state.df = df
+            st.session_state.loaded_filename = None
+            st.session_state.anomaly_results = None
+            st.session_state.rule_violations = None
+            
+            # Instantly reset file uploader state
+            st.session_state.file_uploader_key += 1
+            st.toast("📁 CSV file loaded successfully!", icon="✅")
+            st.rerun()
+        except Exception as e:
+            st.error(f"Error: {e}")
     else:
         st.session_state.loaded_filename = None
         st.markdown("<hr style='border-top: 1px solid #dee2e6; margin: 15px 0 5px 0;'>", unsafe_allow_html=True)
@@ -346,6 +360,8 @@ with st.sidebar:
                     st.session_state.loaded_filename = None
                     st.session_state.anomaly_results = None
                     st.session_state.rule_violations = None
+                    st.session_state.file_uploader_key += 1
+                    st.rerun()
                 except FileNotFoundError:
                     st.error("Run: python data/generate_trades.py first")
         with col_c:
@@ -368,6 +384,8 @@ with st.sidebar:
                     st.session_state.loaded_filename = None
                     st.session_state.anomaly_results = None
                     st.session_state.rule_violations = None
+                    st.session_state.file_uploader_key += 1
+                    st.rerun()
                 except FileNotFoundError:
                     st.error("Run python data/generate_customer_transactions.py first")
 
@@ -379,7 +397,12 @@ with st.sidebar:
 # ── Header ────────────────────────────────────────────────────
 st.markdown("""
 <div class="header-banner">
-    <div class="header-title">🏦 AuditMate</div>
+    <div class="header-title">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0288d1" width="36" height="36" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
+            <path d="M12 2L4 5v6.09c0 5.05 3.41 9.76 8 10.91 4.59-1.15 8-5.86 8-10.91V5l-8-3z"/>
+        </svg>
+        <span style="vertical-align: middle;">AuditMate</span>
+    </div>
     <div class="header-subtitle">Enterprise Regulatory Compliance Agent · Powered by AuditMate & ADK</div>
     <span class="header-badge">SEBI</span>
     <span class="header-badge">RBI</span>
@@ -392,6 +415,15 @@ st.markdown("""
     </div>
 </div>
 """, unsafe_allow_html=True)
+
+def style_critical_severity(val):
+    if "CRITICAL" in str(val):
+        return "background-color: #fee2e2; color: #dc2626; font-weight: bold;"
+    elif "HIGH" in str(val):
+        return "background-color: #ffedd5; color: #ea580c; font-weight: bold;"
+    elif "MEDIUM" in str(val):
+        return "background-color: #fef9c3; color: #ca8a04; font-weight: bold;"
+    return ""
 
 # ── Tabs ──────────────────────────────────────────────────────
 tabs = st.tabs([
@@ -445,17 +477,19 @@ with tabs[0]:
         with col_l:
             # Trades by desk — bar chart
             desk_df = pd.DataFrame(stats["by_desk"])
-            fig = px.bar(
+            fig = px.line(
                 desk_df, x="desk", y="total_notional",
-                color="desk", title="Total Volume by Segment (₹)",
-                color_discrete_sequence=px.colors.qualitative.Bold,
+                title="Total Volume by Segment (₹)",
+                markers=True,
+                color_discrete_sequence=["#00796b"],
                 template="plotly_white",
             )
             fig.update_layout(
                 plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)",
                 showlegend=False, title_font_size=14,
+                xaxis=dict(fixedrange=True), yaxis=dict(fixedrange=True),
             )
-            st.plotly_chart(fig, use_container_width=True, config={'modeBarButtonsToRemove': ['zoom2d', 'pan2d', 'select2d', 'lasso2d'], 'displaylogo': False})
+            st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
 
         with col_r:
             # Status donut
@@ -473,7 +507,7 @@ with tabs[0]:
                 plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)",
                 title_font_size=14,
             )
-            st.plotly_chart(fig2, use_container_width=True, config={'displaylogo': False})
+            st.plotly_chart(fig2, use_container_width=True, config={'displayModeBar': False})
 
         # Trade count over time
         df_copy = df.copy()
@@ -483,13 +517,14 @@ with tabs[0]:
             daily, x="date", y="count",
             title="Daily Trade Volume",
             template="plotly_white",
-            color_discrete_sequence=["#58a6ff"],
+            color_discrete_sequence=["#0097a7"],
         )
         fig3.update_layout(
             plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)",
             title_font_size=14,
+            xaxis=dict(fixedrange=True), yaxis=dict(fixedrange=True),
         )
-        st.plotly_chart(fig3, use_container_width=True, config={'modeBarButtonsToRemove': ['zoom2d', 'pan2d'], 'displaylogo': False})
+        st.plotly_chart(fig3, use_container_width=True, config={'displayModeBar': False})
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -540,11 +575,11 @@ with tabs[1]:
             res = st.session_state.anomaly_results
 
             # Summary KPIs
-            c1, c2, c3, c4 = st.columns(4)
+            c1, c2, c3, c4, c5 = st.columns(5)
             severity_map = res.get("by_severity", {})
             with c1:
                 st.markdown(f"""<div class="metric-card">
-                    <div class="metric-value" style="color:#ef4444">{res['total_flagged']}</div>
+                    <div class="metric-value" style="color:#00796b">{res['total_flagged']}</div>
                     <div class="metric-label">Total Flags</div></div>""", unsafe_allow_html=True)
             with c2:
                 st.markdown(f"""<div class="metric-card">
@@ -558,28 +593,41 @@ with tabs[1]:
                 st.markdown(f"""<div class="metric-card">
                     <div class="metric-value" style="color:#fbbf24">{severity_map.get('MEDIUM',0)}</div>
                     <div class="metric-label">Medium</div></div>""", unsafe_allow_html=True)
+            with c5:
+                st.markdown(f"""<div class="metric-card">
+                    <div class="metric-value" style="color:#10b981">{severity_map.get('LOW',0)}</div>
+                    <div class="metric-label">Low</div></div>""", unsafe_allow_html=True)
 
             st.markdown("<br>", unsafe_allow_html=True)
 
             col_a, col_b = st.columns(2)
 
             with col_a:
-                # Anomalies by type
-                type_df = pd.DataFrame(
-                    list(res["by_type"].items()), columns=["Type", "Count"]
-                )
-                fig = px.bar(
-                    type_df, x="Count", y="Type", orientation="h",
-                    title="Anomalies by Type",
-                    color="Count",
-                    color_continuous_scale=["#4ade80", "#fbbf24", "#ef4444"],
-                    template="plotly_white",
-                )
+                # Anomaly Trend Over Time
+                if res["flagged_trades"]:
+                    flagged_df = pd.DataFrame(res["flagged_trades"])
+                    flagged_df["date"] = pd.to_datetime(flagged_df["timestamp"]).dt.date
+                    trend_df = flagged_df.groupby("date").size().reset_index(name="Anomaly Count")
+                    trend_df = trend_df.sort_values("date")
+                    
+                    fig = px.line(
+                        trend_df, x="date", y="Anomaly Count",
+                        title="📈 Anomaly Trend Over Time",
+                        template="plotly_white",
+                        markers=True,
+                        color_discrete_sequence=["#0288d1"], # Blue theme matching the mockup
+                    )
+                else:
+                    fig = px.line(
+                        title="📈 Anomaly Trend Over Time",
+                        template="plotly_white",
+                    )
                 fig.update_layout(
                     plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)",
-                    showlegend=False, coloraxis_showscale=False, title_font_size=13,
+                    title_font_size=13,
+                    xaxis=dict(fixedrange=True), yaxis=dict(fixedrange=True),
                 )
-                st.plotly_chart(fig, use_container_width=True, config={'modeBarButtonsToRemove': ['zoom2d', 'pan2d', 'select2d', 'lasso2d'], 'displaylogo': False})
+                st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
 
             with col_b:
                 # Anomalies by desk
@@ -589,14 +637,14 @@ with tabs[1]:
                     fig2 = px.pie(
                         desk_df2, names="Desk", values="Count",
                         title="Anomalies by Desk", hole=0.5,
-                        color_discrete_sequence=px.colors.qualitative.Bold,
+                        color_discrete_sequence=["#00796b", "#00acc1", "#0097a7", "#0288d1"],
                         template="plotly_white",
                     )
                     fig2.update_layout(
                         plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)",
                         title_font_size=13,
                     )
-                    st.plotly_chart(fig2, use_container_width=True, config={'displaylogo': False})
+                    st.plotly_chart(fig2, use_container_width=True, config={'displayModeBar': False})
 
             # Flagged trades table
             st.markdown("#### 🔴 Flagged Trades")
@@ -610,8 +658,13 @@ with tabs[1]:
                 )
                 if severity_filter != "ALL":
                     flagged_df = flagged_df[flagged_df["severity"] == severity_filter]
+                display_df = flagged_df.copy()
+                display_df["severity"] = display_df["severity"].apply(
+                    lambda x: "⚠️ CRITICAL" if x == "CRITICAL" else x
+                )
                 st.dataframe(
-                    flagged_df[["trade_id","anomaly_type","severity","reason","desk","trader_id","timestamp"]],
+                    display_df[["trade_id","anomaly_type","severity","reason","desk","trader_id","timestamp"]]
+                    .style.map(style_critical_severity, subset=["severity"]),
                     use_container_width=True,
                     height=350,
                 )
@@ -770,8 +823,13 @@ with tabs[2]:
             st.markdown("#### 🔴 Rule Violations Detail")
             if rv.get("violations"):
                 vdf = pd.DataFrame(rv["violations"])
+                display_vdf = vdf.copy()
+                display_vdf["severity"] = display_vdf["severity"].apply(
+                    lambda x: "⚠️ CRITICAL" if x == "CRITICAL" else x
+                )
                 st.dataframe(
-                    vdf[["rule_id","rule_name","trade_id","severity","detail","regulation"]],
+                    display_vdf[["rule_id","rule_name","trade_id","severity","detail","regulation"]]
+                    .style.map(style_critical_severity, subset=["severity"]),
                     use_container_width=True, height=350,
                 )
 
@@ -1063,8 +1121,9 @@ with tabs[5]:
         yaxis_title="SLA %", xaxis_title="Date",
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         title_font_size=14,
+        xaxis=dict(fixedrange=True), yaxis=dict(fixedrange=True),
     )
-    st.plotly_chart(fig, use_container_width=True, config={'modeBarButtonsToRemove': ['zoom2d', 'pan2d', 'select2d', 'lasso2d'], 'displaylogo': False})
+    st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
 
     # Audit log
     st.markdown("#### 📋 Recent Audit Log")
