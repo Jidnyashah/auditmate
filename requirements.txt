@@ -9,3 +9,4 @@ reportlab>=4.2.0
 python-dotenv>=1.0.0
 faker>=25.0.0
 fastmcp>=0.1.0
+protobuf==5.26.1
