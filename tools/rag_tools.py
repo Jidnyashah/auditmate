@@ -5,7 +5,6 @@ ChromaDB-backed RAG tools for regulatory Q&A and audit trail search.
 """
 
 import chromadb
-from chromadb.utils import embedding_functions
 from pathlib import Path
 from typing import Optional
 import sys
@@ -14,10 +13,21 @@ import re
 sys.path.insert(0, str(Path(__file__).parent.parent))
 import config
 
-# ── Embedding function (local, no API needed) ─────────────────
-_EMBED_FN = embedding_functions.SentenceTransformerEmbeddingFunction(
-    model_name="all-MiniLM-L6-v2"
-)
+# ── Embedding function (Cloud-based, no PyTorch needed) ───────
+class GeminiEmbeddingFunction(chromadb.EmbeddingFunction):
+    def __call__(self, input: list[str]) -> list[list[float]]:
+        if not input:
+            return []
+        from google import genai
+        client = genai.Client(api_key=config.GOOGLE_API_KEY)
+        response = client.models.embed_content(
+            model="text-embedding-004",
+            contents=input,
+        )
+        # response.embeddings is a list where each element has a .values property
+        return [emb.values for emb in response.embeddings]
+
+_EMBED_FN = GeminiEmbeddingFunction()
 
 
 def _get_client() -> chromadb.PersistentClient:

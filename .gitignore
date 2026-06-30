@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv/
 chroma_db/
+vector_db/
 *.db
 *.sqlite
 reports/

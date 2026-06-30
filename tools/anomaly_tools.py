@@ -6,7 +6,6 @@ Statistical and rule-based anomaly detection on trade data.
 
 import pandas as pd
 import numpy as np
-from scipy import stats
 from typing import Optional
 from pathlib import Path
 import sys
@@ -18,9 +17,13 @@ import config
 def _zscore_flag(series: pd.Series, threshold: float = None) -> pd.Series:
     """Return boolean mask where |z-score| > threshold."""
     thr = threshold or config.ZSCORE_THRESHOLD
-    z = np.abs(stats.zscore(series.dropna()))
+    s_clean = series.dropna()
+    if len(s_clean) < 2 or s_clean.std(ddof=0) == 0:
+        z = pd.Series(0.0, index=s_clean.index)
+    else:
+        z = np.abs((s_clean - s_clean.mean()) / s_clean.std(ddof=0))
     z_full = pd.Series(0.0, index=series.index)
-    z_full.loc[series.dropna().index] = z
+    z_full.loc[s_clean.index] = z
     return z_full > thr, z_full
 
 
