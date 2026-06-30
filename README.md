@@ -173,7 +173,7 @@ AuditMate uses RAG to answer queries regarding financial regulations without hal
 
 ---
 
-## Capstone Concepts Demonstrated
+## Key Concepts Demonstrated
 
 - ✅ Multi-Agent Orchestration (ADK agent-as-tool pattern)
 - ✅ Tool Use / Function Calling (10+ tools)
