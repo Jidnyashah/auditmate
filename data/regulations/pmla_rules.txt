@@ -1,0 +1,10 @@
+PMLA (Prevention of Money Laundering Act) and FIU-IND Guidelines
+
+1. Prevention of Money Laundering Act (PMLA) Framework
+The PMLA (Prevention of Money Laundering Act) governs AML and Terrorist Financing (TF) compliance inside India. Regulated entities must register all suspicious transactions with the Financial Intelligence Unit - India (FIU-IND). High-risk transactions involve customers transacting with FATF-blacklisted or high-risk TF countries (such as Iran, North Korea, Syria, and Yemen).
+
+2. AML / CFT Risk Profiling
+Regulated financial entities are required to assign a customer risk profile (Low, Medium, High). High-risk customer activities must trigger enhanced diligence checks. Wires or transfers to high-risk jurisdictions require immediate compliance review.
+
+3. Suspicious Transaction Reporting (STR) & Structuring
+Under PMLA, "structuring" is the act of splitting a single large transaction into multiple smaller transactions to avoid triggering mandatory reporting limits (typically ₹1,000,000 / 10 Lakhs). Any series of transactions to high-risk destinations under the ₹10 Lakh threshold within a short time window must be flagged and reported to FIU-IND.

@@ -1,0 +1,1215 @@
+transaction_id,customer_id,customer_name,customer_risk_profile,account_id,account_type,timestamp,amount_usd,quantity,transaction_type,counterparty_name,counterparty_country,status,channel
+TXN81A86E2B,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-01 12:45:15,662845.44,1,Wire,M. K. Holdings,Japan,Settled,Wire Transfer
+TXN2AFFBB0E,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-01 14:19:04,45814.02,1,Withdrawal,Self,India,Settled,Online Banking
+TXN6F7EB5E9,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-01 14:31:42,179111.12,1,Deposit,Self,India,Settled,Online Banking
+TXND9C7678A,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-01 16:11:47,93318.46,1,Wire,Direct Express,Japan,Settled,Wire Transfer
+TXNEF1C8A5C,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-01 17:36:22,37242.15,1,Withdrawal,Self,India,Settled,ATM
+TXN40B03DF7,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-02 00:40:44,170732.1,1,Transfer,Damascus Trading,Switzerland,Settled,Mobile App
+TXNC3D8316B,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-02 05:37:30,99225.84,1,Transfer,S.A. Trade Corp,Canada,Settled,Mobile App
+TXNF1C7044B,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-02 06:09:10,478840.61,1,Withdrawal,Self,India,Settled,Mobile App
+TXN51617225,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-02 07:51:27,1616820.89,1,Wire,Damascus Trading,Canada,Settled,Wire Transfer
+TXN466C7CD0,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-02 08:36:43,194383.58,1,Transfer,Hassan & Co Financials,Switzerland,Settled,Mobile App
+TXNBEB01D17,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-02 15:26:30,288883.62,1,Withdrawal,Self,India,Settled,Online Banking
+TXN1EAAD300,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-02 16:11:38,126990.35,1,Transfer,Hassan & Co Financials,United States,Settled,Online Banking
+TXN2820BDA1,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-02 17:25:53,2445403.05,1,Wire,Capital Horizons,Australia,Settled,Wire Transfer
+TXNF012F14A,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-02 20:32:50,576924.82,1,Withdrawal,Self,India,Settled,Mobile App
+TXNFAC2B0E8,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-02 21:51:55,99121.83,1,Deposit,Self,India,Settled,Mobile App
+TXN24AFFD00,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-03 03:56:26,65858.21,1,Transfer,Capital Horizons,United Kingdom,Settled,Mobile App
+TXND37993B5,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-03 04:04:22,551833.37,1,Withdrawal,Self,India,Settled,Mobile App
+TXN4E0CDA9B,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-03 05:48:40,287385.28,1,Withdrawal,Self,India,Settled,Mobile App
+TXN5A831384,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-03 05:50:14,138491.72,1,Deposit,Self,India,Settled,Mobile App
+TXNFC0315CC,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-03 09:15:54,4706383.72,1,Wire,Pyongyang Export,UAE,Pending,Wire Transfer
+TXN57A7C299,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-03 09:26:22,12526.98,1,Withdrawal,Self,India,Settled,ATM
+TXN098DF0A9,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-03 12:21:00,199040.93,1,Transfer,Direct Express,India,Settled,Mobile App
+TXN5FD25224,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-03 14:02:41,173781.6,1,Wire,M. K. Holdings,United States,Settled,Wire Transfer
+TXNBAD9EE34,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-03 14:23:21,32161.07,1,Transfer,Damascus Trading,Singapore,Settled,Mobile App
+TXNCCC919BF,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-03 15:35:36,87845.05,1,Withdrawal,Self,India,Settled,Mobile App
+TXNE1F01B11,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-03 16:22:45,104121.47,1,Withdrawal,Self,India,Settled,Mobile App
+TXNAA909F81,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-03 19:45:49,178327.21,1,Withdrawal,Self,India,Settled,Online Banking
+TXNC6F01BD6,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-03 20:19:09,105179.75,1,Withdrawal,Self,India,Settled,Mobile App
+TXN3097F2CD,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-04 00:00:10,107554.88,1,Deposit,Self,India,Settled,Online Banking
+TXN7E2C7900,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-04 00:53:18,1300779.74,1,Wire,Vertex Clearing,UAE,Settled,Wire Transfer
+TXN902D1773,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-04 00:55:51,1999824.96,1,Wire,Vertex Clearing,Singapore,Settled,Wire Transfer
+TXN8B55F201,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-04 01:25:02,76886.99,1,Transfer,Global Trading Ltd,Singapore,Settled,Online Banking
+TXNA5731065,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-04 05:05:52,145776.42,1,Wire,Hassan & Co Financials,Australia,Settled,Wire Transfer
+TXN86CCAA1E,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-04 06:10:21,96419.91,1,Deposit,Self,India,Pending,Online Banking
+TXN4DF7B48B,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-04 07:20:12,126504.93,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB6858245,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-04 09:26:31,1874383.49,1,Deposit,Self,India,Settled,Mobile App
+TXN42B2BED1,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-04 10:26:11,1311228.28,1,Deposit,Self,India,Settled,Online Banking
+TXN20DA677F,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-04 11:05:25,2760965.29,1,Withdrawal,Self,India,Settled,Online Banking
+TXN704F462C,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-04 14:52:09,442431.71,1,Withdrawal,Self,India,Settled,Mobile App
+TXN9753709E,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-04 15:10:32,94888.07,1,Withdrawal,Self,India,Settled,Mobile App
+TXNFE9CC361,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-04 15:48:00,17377.6,1,Deposit,Self,India,Declined,Mobile App
+TXN972E9140,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-04 16:20:57,1099287.17,1,Transfer,Damascus Trading,Yemen,Settled,Online Banking
+TXN8E221A3A,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-04 23:20:58,297377.79,1,Wire,M. K. Holdings,United Kingdom,Settled,Wire Transfer
+TXN9F7DCB47,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-04 23:24:53,970497.74,1,Wire,Pyongyang Export,India,Settled,Wire Transfer
+TXN7525088E,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-05 01:43:51,934310.04,1,Wire,Vertex Clearing,Switzerland,Declined,Wire Transfer
+TXN3BFE6F74,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-05 04:20:26,4978476.44,1,Wire,Nexus Logistics,United States,Settled,Wire Transfer
+TXN753375E8,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-05 04:59:54,169897.56,1,Transfer,S.A. Trade Corp,Singapore,Settled,Mobile App
+TXNDECCA21C,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-05 15:59:26,104061.22,1,Transfer,Damascus Trading,Australia,Settled,Mobile App
+TXN5185CD85,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-05 17:26:27,141377.48,1,Transfer,Vertex Clearing,United Kingdom,Settled,Online Banking
+TXN475D4D0C,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-06 00:59:39,114632.79,1,Wire,Damascus Trading,Australia,Settled,Wire Transfer
+TXN17AEBC24,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-06 02:26:43,139783.6,1,Wire,Tehran General Commerce,Australia,Settled,Wire Transfer
+TXN3A5B5175,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-06 10:21:23,201492.07,1,Withdrawal,Self,India,Settled,Mobile App
+TXN447DF0A7,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-06 10:33:15,125563.9,1,Withdrawal,Self,India,Settled,Mobile App
+TXNF0C4198B,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-06 11:11:04,1349588.3,1,Wire,Tehran General Commerce,United States,Settled,Wire Transfer
+TXN5EE75313,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-06 13:24:48,71867.59,1,Transfer,Damascus Trading,United States,Settled,Online Banking
+TXN07C4C445,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-06 13:42:29,32139.43,1,Transfer,Vertex Clearing,Canada,Settled,Online Banking
+TXNCEF41362,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-06 15:02:08,154423.76,1,Deposit,Self,India,Settled,Mobile App
+TXN65628ABA,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-06 22:51:12,426320.31,1,Wire,Damascus Trading,Switzerland,Settled,Wire Transfer
+TXN99B0BAD2,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-06 23:09:15,97088.29,1,Transfer,Direct Express,Singapore,Settled,Online Banking
+TXN133FBF83,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-07 01:38:50,482361.89,1,Wire,Global Trading Ltd,Singapore,Settled,Wire Transfer
+TXNE09679EA,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-07 02:12:17,358100.44,1,Wire,Capital Horizons,Canada,Settled,Wire Transfer
+TXN79096B14,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-07 02:24:57,65445.72,1,Deposit,Self,India,Settled,Mobile App
+TXN440E2473,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-07 03:04:35,1083466.1,1,Transfer,Hassan & Co Financials,Australia,Settled,Online Banking
+TXN1EC91640,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-07 03:56:26,352440.78,1,Transfer,Capital Horizons,Switzerland,Settled,Mobile App
+TXN22515985,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-07 04:08:14,11382.69,1,Deposit,Self,India,Settled,Mobile App
+TXN9D3790AB,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-07 04:40:14,533144.24,1,Wire,Direct Express,Australia,Settled,Wire Transfer
+TXN17C1403E,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-07 05:41:29,234532.98,1,Transfer,Tehran General Commerce,Singapore,Settled,Online Banking
+TXNA60567F5,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-07 07:18:23,175955.61,1,Wire,Hassan & Co Financials,India,Settled,Wire Transfer
+TXNC54ED1E5,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-07 07:28:56,2316878.02,1,Withdrawal,Self,India,Settled,Mobile App
+TXNF348B056,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-07 08:38:19,323708.4,1,Deposit,Self,India,Settled,Online Banking
+TXN32EEDD12,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-07 08:52:04,740788.88,1,Withdrawal,Self,India,Settled,Online Banking
+TXNC6AA77FA,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-07 14:22:01,1477277.88,1,Wire,Capital Horizons,UAE,Settled,Wire Transfer
+TXN9F9F9F22,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-07 16:24:08,149944.07,1,Transfer,Vertex Clearing,United Kingdom,Settled,Online Banking
+TXNF0CCC212,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-07 17:31:52,9064.26,1,Withdrawal,Self,India,Settled,Branch
+TXNE950AE97,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-08 05:27:29,32308.05,1,Withdrawal,Self,India,Settled,Branch
+TXN37C2A89A,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-08 10:21:11,7201205.09,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF04D12DC,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-08 16:04:21,162923.65,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF68DD588,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-08 17:02:32,840624.26,1,Transfer,Hassan & Co Financials,Canada,Settled,Mobile App
+TXNC7D63553,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-08 19:46:16,1148314.91,1,Deposit,Self,India,Settled,Online Banking
+TXN32FB5629,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-08 21:20:31,1186384.45,1,Withdrawal,Self,India,Settled,Online Banking
+TXN360754DF,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-09 00:08:32,454455.16,1,Wire,S.A. Trade Corp,India,Settled,Wire Transfer
+TXN5D3CF9C5,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-09 07:21:48,70728.93,1,Deposit,Self,India,Settled,Online Banking
+TXNCB797042,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-09 14:10:11,779740.4,1,Wire,S.A. Trade Corp,Australia,Settled,Wire Transfer
+TXNBB69F039,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-09 14:52:22,212473.18,1,Deposit,Self,India,Settled,Mobile App
+TXN5265FEA3,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-09 22:33:12,24501.26,1,Transfer,Tehran General Commerce,Switzerland,Settled,Online Banking
+TXN7004B138,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-10 03:21:49,37347.64,1,Withdrawal,Self,India,Settled,Branch
+TXN2F205AFA,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-10 04:19:12,1092144.34,1,Transfer,M. K. Holdings,Switzerland,Settled,Online Banking
+TXN754338E5,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-10 04:54:15,59792.42,1,Withdrawal,Self,India,Settled,Mobile App
+TXN6700E198,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-10 08:19:21,385809.38,1,Deposit,Self,India,Settled,Mobile App
+TXN9752CE81,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-10 08:39:57,297017.42,1,Deposit,Self,India,Settled,Online Banking
+TXN95058DAE,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-10 08:47:00,65540.27,1,Deposit,Self,India,Settled,Online Banking
+TXNC0A37BF1,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-10 10:08:08,2867518.64,1,Wire,Nexus Logistics,UAE,Settled,Wire Transfer
+TXN0E7F892D,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-10 10:58:08,4407952.15,1,Wire,Vertex Clearing,Switzerland,Settled,Wire Transfer
+TXN21719F2C,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-10 15:33:51,15705.25,1,Transfer,Pyongyang Export,Switzerland,Settled,Online Banking
+TXN8FD0D193,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-10 18:51:43,1080780.59,1,Deposit,Self,India,Settled,Online Banking
+TXNBD5715B2,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-11 00:21:55,209980.05,1,Withdrawal,Self,India,Settled,Online Banking
+TXN94AB07D8,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-11 05:19:16,80443.33,1,Transfer,S.A. Trade Corp,United States,Settled,Mobile App
+TXN8FC20BF6,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-11 07:31:50,167669.23,1,Deposit,Self,India,Settled,Online Banking
+TXNF59C5307,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-11 07:53:53,328258.77,1,Wire,Capital Horizons,Japan,Settled,Wire Transfer
+TXN732F7B7E,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-11 08:03:48,132457.81,1,Withdrawal,Self,India,Settled,Mobile App
+TXNMIS000,,Vikram Malhotra,High,ACC1005,Business,2026-04-11 11:00:05,80000.0,1,Transfer,Vertex Clearing,India,Settled,Online Banking
+TXN70E3077D,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-11 12:39:23,18894.01,1,Transfer,Sana Wires,Canada,Settled,Mobile App
+TXNE178AB46,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-11 15:05:33,87065.52,1,Deposit,Self,India,Settled,Online Banking
+TXN325AF277,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-11 15:59:50,339554.16,1,Wire,Damascus Trading,Canada,Settled,Wire Transfer
+TXN2C2829E8,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-11 16:53:58,33236.16,1,Transfer,Tehran General Commerce,Germany,Settled,Mobile App
+TXN7C497DBF,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-11 22:24:00,105069.75,1,Withdrawal,Self,India,Settled,Mobile App
+TXN5E9AA356,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-11 23:49:00,109292.37,1,Deposit,Self,India,Settled,Online Banking
+TXN72767475,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-12 01:30:40,576817.31,1,Wire,Hassan & Co Financials,United Kingdom,Settled,Wire Transfer
+TXN7CF5EB5B,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-12 02:15:53,394718.2,1,Transfer,Capital Horizons,Singapore,Settled,Mobile App
+TXN0C8B27E6,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-12 02:27:25,96548.36,1,Deposit,Self,India,Settled,Mobile App
+TXN0822F459,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-12 04:08:16,390460.7,1,Deposit,Self,India,Settled,Mobile App
+TXN78BFB3A7,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-12 05:22:17,43889.55,1,Withdrawal,Self,India,Settled,Mobile App
+TXN6F6904D2,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-12 07:45:32,14624.52,1,Deposit,Self,India,Settled,Online Banking
+TXN3A0977A8,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-12 10:48:11,21352.63,1,Deposit,Self,India,Settled,Online Banking
+TXNMIS001,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-12 11:00:05,80000.0,1,Transfer,,India,Settled,Online Banking
+TXNE6DB5954,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-12 13:40:05,82291.74,1,Deposit,Self,India,Settled,Mobile App
+TXN1AFA25C2,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-12 14:58:47,102039.11,1,Transfer,Tehran General Commerce,UAE,Settled,Online Banking
+TXN72EA3F0E,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-12 15:09:28,1346595.45,1,Wire,M. K. Holdings,United States,Settled,Wire Transfer
+TXN2607B6C4,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-12 15:42:46,595513.03,1,Wire,Hassan & Co Financials,Japan,Settled,Wire Transfer
+TXNAFBD1C84,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-12 19:20:10,7885.21,1,Deposit,Self,India,Settled,Mobile App
+TXN529713EA,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-12 19:33:09,3859.4,1,Transfer,Global Trading Ltd,Singapore,Settled,Online Banking
+TXN8D215CF6,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-12 19:40:10,1067445.19,1,Deposit,Self,India,Settled,Online Banking
+TXNB1E5D789,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-12 21:15:04,426427.33,1,Wire,Pyongyang Export,India,Settled,Wire Transfer
+TXNA5044FFD,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-12 23:18:20,1711818.22,1,Wire,Vertex Clearing,Japan,Settled,Wire Transfer
+TXN9DD0B18E,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-13 01:40:07,67333.7,1,Transfer,Hassan & Co Financials,Germany,Pending,Online Banking
+TXN1F440910,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-13 05:03:31,1772629.85,1,Withdrawal,Self,India,Settled,Mobile App
+TXN8152369C,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-13 05:37:50,1204196.13,1,Transfer,Pyongyang Export,United Kingdom,Settled,Mobile App
+TXNB05B097F,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-13 08:11:43,3384231.85,1,Deposit,Self,India,Settled,Mobile App
+TXND1071969,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-13 08:44:05,300863.93,1,Transfer,M. K. Holdings,India,Settled,Online Banking
+TXNF3DD5C3E,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-13 09:20:10,358199.68,1,Transfer,Hassan & Co Financials,Singapore,Settled,Mobile App
+TXN509D41D4,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-13 09:23:24,625797.56,1,Withdrawal,Self,India,Settled,Online Banking
+TXN397A8822,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-13 10:05:41,16337907.57,1,Wire,Sana Wires,India,Settled,Wire Transfer
+TXN012D9F14,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-13 10:43:51,155335.38,1,Transfer,Direct Express,Switzerland,Settled,Mobile App
+TXN879A162F,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-13 11:20:51,186340.29,1,Deposit,Self,India,Settled,Online Banking
+TXND2DD66A5,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-13 11:29:55,5118.05,1,Withdrawal,Self,India,Settled,ATM
+TXN4D2DF657,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-13 15:36:12,202955.5,1,Deposit,Self,India,Settled,Mobile App
+TXNF61B4446,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-13 18:34:00,8543.95,1,Withdrawal,Self,India,Settled,ATM
+TXNFDC009B5,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-13 19:27:28,118795.55,1,Transfer,Pyongyang Export,India,Settled,Mobile App
+TXN0F7AD98B,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-13 20:00:06,275060.9,1,Withdrawal,Self,India,Settled,Online Banking
+TXN2ED81BBB,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-13 23:03:22,1891.82,1,Withdrawal,Self,India,Settled,Branch
+TXN11423551,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-13 23:15:18,215183.85,1,Transfer,M. K. Holdings,United Kingdom,Settled,Mobile App
+TXN815A4AE0,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-14 00:34:08,1432720.58,1,Withdrawal,Self,India,Settled,Mobile App
+TXN86D5409E,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-14 00:43:59,14907.14,1,Withdrawal,Self,India,Settled,Branch
+TXNF5EF21D0,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-14 03:01:56,61850.35,1,Deposit,Self,India,Settled,Online Banking
+TXNB9CAA69F,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-14 05:24:12,2388076.49,1,Withdrawal,Self,India,Settled,Online Banking
+TXN137601F7,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-14 05:47:37,86074.15,1,Withdrawal,Self,India,Settled,Online Banking
+TXN01707E5D,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-14 07:16:52,1185209.37,1,Deposit,Self,India,Settled,Online Banking
+TXN04AA4F80,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-14 08:48:05,27601.46,1,Withdrawal,Self,India,Settled,Branch
+TXNDE7BA763,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-14 09:50:47,11460.07,1,Deposit,Self,India,Settled,Mobile App
+TXNB8F65FD4,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-14 10:04:31,920451.36,1,Deposit,Self,India,Settled,Mobile App
+TXNC80C718B,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-14 11:23:07,123859.91,1,Deposit,Self,India,Settled,Online Banking
+TXNDA422DE1,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-14 11:36:15,8645.48,1,Withdrawal,Self,India,Settled,ATM
+TXNB1E7F1FF,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-14 12:54:40,60105.55,1,Withdrawal,Self,India,Settled,Mobile App
+TXN1F6665EA,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-14 13:22:46,1600327.9,1,Withdrawal,Self,India,Settled,Online Banking
+TXN17FF6984,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-14 15:21:57,12502.52,1,Deposit,Self,India,Settled,Online Banking
+TXNA591EC9A,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-14 15:27:00,254936.97,1,Transfer,Vertex Clearing,Singapore,Settled,Online Banking
+TXN64ED7652,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-14 16:51:24,12322.41,1,Transfer,M. K. Holdings,Switzerland,Settled,Mobile App
+TXN2D5D6290,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-14 18:56:02,137154.72,1,Withdrawal,Self,India,Settled,Online Banking
+TXN15D13D1E,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-14 23:08:35,18045.19,1,Deposit,Self,India,Settled,Online Banking
+TXN0AC83D15,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-15 01:06:23,40506.43,1,Transfer,Damascus Trading,Japan,Settled,Mobile App
+TXN638BE2BD,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-15 02:28:49,29247.95,1,Withdrawal,Self,India,Settled,ATM
+TXN5B34E6C9,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-15 02:50:07,154152.18,1,Deposit,Self,India,Settled,Mobile App
+TXN4B947D6B,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-15 03:26:38,728592.19,1,Wire,Direct Express,India,Settled,Wire Transfer
+TXN206D70DE,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-15 04:40:23,771632.88,1,Withdrawal,Self,India,Settled,Mobile App
+TXNC3022AE4,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-15 05:07:24,110791.99,1,Withdrawal,Self,India,Settled,Mobile App
+TXN1DA4686A,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-15 05:11:06,81499.61,1,Wire,Tehran General Commerce,Singapore,Settled,Wire Transfer
+TXNF1A9CD56,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-15 05:17:26,19010.91,1,Withdrawal,Self,India,Settled,Branch
+TXNDBAE263A,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-15 05:21:57,20810.76,1,Transfer,Pyongyang Export,United Kingdom,Pending,Mobile App
+TXNA46C2400,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-15 07:29:17,55114.32,1,Deposit,Self,India,Settled,Mobile App
+TXND232C960,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-15 11:56:41,252558.59,1,Withdrawal,Self,India,Settled,Mobile App
+TXN51C73AF9,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-15 12:54:49,106223.75,1,Withdrawal,Self,India,Settled,Online Banking
+TXND63D6D5C,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-15 14:21:43,1940822.11,1,Wire,Nexus Logistics,Canada,Settled,Wire Transfer
+TXND6088055,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-15 14:51:24,36362.0,1,Deposit,Self,India,Settled,Online Banking
+TXN5D725EAF,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-16 00:56:39,45971.84,1,Transfer,Vertex Clearing,India,Settled,Online Banking
+TXNF9B9C671,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-16 01:00:39,1288996.2,1,Transfer,Hassan & Co Financials,UAE,Settled,Mobile App
+TXN378B1E3C,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-16 01:35:35,407300.16,1,Wire,Tehran General Commerce,UAE,Settled,Wire Transfer
+TXN23C590F2,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-16 01:47:50,81063.48,1,Transfer,Vertex Clearing,India,Settled,Online Banking
+TXN5DBA6B82,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-16 07:54:20,470988.63,1,Wire,Nexus Logistics,United States,Settled,Wire Transfer
+TXND6996309,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-16 08:59:09,41217.37,1,Withdrawal,Self,India,Settled,Online Banking
+TXN33E52B66,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-16 10:11:23,1063391.03,1,Wire,Hassan & Co Financials,UAE,Pending,Wire Transfer
+TXNE3724330,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-16 11:27:45,290814.42,1,Withdrawal,Self,India,Settled,Mobile App
+TXN7BBA7D25,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-16 11:52:28,629976.78,1,Wire,Direct Express,United States,Settled,Wire Transfer
+TXNA6A5C1F2,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-16 12:25:35,64658.75,1,Withdrawal,Self,India,Settled,Online Banking
+TXNA69B08E8,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-16 18:21:07,1644841.67,1,Wire,Hassan & Co Financials,India,Settled,Wire Transfer
+TXNA1A82AED,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-16 19:23:16,115426.63,1,Wire,Hassan & Co Financials,United States,Settled,Wire Transfer
+TXN080C59A2,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-16 19:27:47,332742.85,1,Withdrawal,Self,India,Settled,Mobile App
+TXN44624C56,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-16 23:28:57,40371.3,1,Transfer,Global Trading Ltd,Canada,Settled,Online Banking
+TXN55B1FE0D,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-17 00:33:34,1999032.87,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF479A073,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-17 02:46:59,592046.47,1,Wire,Global Trading Ltd,Germany,Settled,Wire Transfer
+TXNE4EADA45,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-17 05:46:04,77594.47,1,Transfer,M. K. Holdings,United Kingdom,Settled,Mobile App
+TXN6EE24BAC,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-17 07:58:18,158029.78,1,Withdrawal,Self,India,Settled,Online Banking
+TXN6C08241A,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-17 12:31:27,124655.2,1,Transfer,Direct Express,India,Settled,Mobile App
+TXNCC3959C5,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-17 14:10:47,236996.95,1,Withdrawal,Self,India,Pending,Mobile App
+TXNCAEFB9FD,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-17 14:20:32,21457.06,1,Withdrawal,Self,India,Settled,Branch
+TXN4AB8DA83,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-17 18:23:13,12071.76,1,Deposit,Self,India,Settled,Online Banking
+TXNC0B25FE5,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-17 19:06:33,24879.19,1,Deposit,Self,India,Settled,Mobile App
+TXNF7EEEE41,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-17 22:20:55,499917.86,1,Wire,Pyongyang Export,Germany,Settled,Wire Transfer
+TXND65F69C6,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-17 22:46:36,30457.92,1,Deposit,Self,India,Settled,Mobile App
+TXNABEDBC21,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-18 00:29:32,265493.01,1,Deposit,Self,India,Settled,Online Banking
+TXN3833B576,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-18 01:05:08,415156.79,1,Wire,Nexus Logistics,United Kingdom,Declined,Wire Transfer
+TXNC2066154,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-18 02:19:41,255375.21,1,Deposit,Self,India,Settled,Mobile App
+TXN124A076B,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-18 02:45:09,69392.54,1,Deposit,Self,India,Settled,Online Banking
+TXNE2D8E429,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-18 04:23:38,45709.93,1,Deposit,Self,India,Settled,Mobile App
+TXN304E80F0,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-18 08:36:59,15129553.72,1,Withdrawal,Self,India,Settled,Mobile App
+TXN6AF34D5B,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-18 10:12:25,41043.62,1,Transfer,Hassan & Co Financials,Switzerland,Settled,Online Banking
+TXNC186B78F,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-18 10:34:17,118825.84,1,Withdrawal,Self,India,Settled,Mobile App
+TXN7C6F0DED,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-18 10:51:59,150147.78,1,Withdrawal,Self,India,Settled,Mobile App
+TXN882D1F20,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-18 12:23:45,26790.61,1,Transfer,Vertex Clearing,Switzerland,Settled,Online Banking
+TXN19F3315C,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-18 13:51:24,100049.0,1,Transfer,Nexus Logistics,Sudan,Settled,Mobile App
+TXNAE3470FB,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-18 14:11:52,79632.36,1,Wire,Sana Wires,Canada,Settled,Wire Transfer
+TXNB49587FD,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-18 16:58:52,94297.18,1,Wire,Hassan & Co Financials,Japan,Settled,Wire Transfer
+TXNF62C6D02,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-18 18:06:20,1442889.31,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXN420B5DAC,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-18 19:00:09,6988.63,1,Deposit,Self,India,Settled,Mobile App
+TXN7630375E,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-18 19:35:43,37856.48,1,Deposit,Self,India,Settled,Mobile App
+TXN219535E3,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-18 20:18:16,1266660.78,1,Transfer,M. K. Holdings,India,Settled,Online Banking
+TXN49A2051B,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-18 21:59:27,287706.9,1,Deposit,Self,India,Settled,Mobile App
+TXNA1A62B9B,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-19 01:52:07,80721.78,1,Transfer,Global Trading Ltd,India,Settled,Mobile App
+TXNF24B5720,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-19 02:09:31,52394.22,1,Withdrawal,Self,India,Settled,Online Banking
+TXN5E73134D,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-19 02:15:54,114801.7,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF91E037A,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-19 03:01:03,10734.44,1,Withdrawal,Self,India,Settled,Branch
+TXNC6D9D603,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-19 03:55:06,104780.56,1,Transfer,Tehran General Commerce,Switzerland,Settled,Mobile App
+TXNEC77AAA9,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-19 04:23:05,1469467.52,1,Transfer,Direct Express,India,Settled,Mobile App
+TXN1913A140,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-19 06:12:18,1033173.8,1,Transfer,Sana Wires,Germany,Settled,Online Banking
+TXN80B4D9C0,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-19 13:31:22,30744.06,1,Transfer,Hassan & Co Financials,UAE,Settled,Mobile App
+TXN9F5F5AB6,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-19 16:51:53,75444.31,1,Transfer,Capital Horizons,United Kingdom,Settled,Online Banking
+TXNB6D19F7F,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-19 17:30:49,288789.1,1,Deposit,Self,India,Settled,Online Banking
+TXND5C69A35,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-19 18:38:19,631279.84,1,Withdrawal,Self,India,Declined,Online Banking
+TXNE249C751,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-19 21:18:53,41597.85,1,Withdrawal,Self,India,Settled,Online Banking
+TXN6A79A6C4,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-19 21:34:01,750206.97,1,Withdrawal,Self,India,Settled,Mobile App
+TXN6EFC6AA8,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-19 22:27:00,208950.72,1,Deposit,Self,India,Settled,Mobile App
+TXN62B4B75F,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-20 00:42:40,641963.25,1,Wire,Nexus Logistics,United Kingdom,Settled,Wire Transfer
+TXNE7632FA0,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-20 01:22:33,367930.1,1,Wire,Vertex Clearing,United States,Settled,Wire Transfer
+TXND8CD7C93,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-20 01:30:10,20754.55,1,Deposit,Self,India,Settled,Mobile App
+TXNC9571F34,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-20 02:07:00,132918.3,1,Withdrawal,Self,India,Settled,Online Banking
+TXN17790FC0,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-20 10:09:52,603926.22,1,Deposit,Self,India,Settled,Mobile App
+TXN6AF768E6,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-20 11:32:15,65813.75,1,Wire,Hassan & Co Financials,Japan,Settled,Wire Transfer
+TXNCCD70ABB,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-20 12:15:46,174045.69,1,Withdrawal,Self,India,Settled,Mobile App
+TXN5CE3F6A4,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-20 16:44:08,225625.91,1,Transfer,Nexus Logistics,Canada,Settled,Mobile App
+TXNC02C17FF,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-20 17:54:19,165635.5,1,Deposit,Self,India,Settled,Mobile App
+TXNF3C4B25E,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-20 18:08:40,324608.0,1,Transfer,Hassan & Co Financials,Canada,Settled,Mobile App
+TXNC04A5734,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-20 19:41:11,1636638.64,1,Withdrawal,Self,India,Settled,Mobile App
+TXN6E7EBEB4,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-20 21:30:15,647231.22,1,Withdrawal,Self,India,Settled,Mobile App
+TXN92B56ECB,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-20 22:31:10,1214436.8,1,Wire,S.A. Trade Corp,Canada,Settled,Wire Transfer
+TXN46523E14,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-20 22:44:52,217343.89,1,Deposit,Self,India,Settled,Mobile App
+TXN2BEA8029,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-21 02:06:24,343100.46,1,Deposit,Self,India,Settled,Mobile App
+TXND1EDF011,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-21 02:51:25,47744.51,1,Withdrawal,Self,India,Settled,Mobile App
+TXN01E5ABC1,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-21 03:22:57,1159332.67,1,Transfer,Pyongyang Export,United States,Settled,Mobile App
+TXND74BF025,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-21 04:06:44,2818157.39,1,Withdrawal,Self,India,Settled,Online Banking
+TXNDUP000,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-21 11:00:05,50000.0,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXNDUP000,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-21 11:05:05,55000.0,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXN290C42C3,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-21 12:26:09,98619.55,1,Wire,Global Trading Ltd,Switzerland,Declined,Wire Transfer
+TXNBDE97ECD,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-21 12:34:16,299600.04,1,Deposit,Self,India,Settled,Mobile App
+TXN16A319C1,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-21 13:41:43,12841.4,1,Transfer,Global Trading Ltd,Japan,Settled,Online Banking
+TXNC1EC1F17,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-21 16:31:07,255676.34,1,Wire,Direct Express,United States,Settled,Wire Transfer
+TXN6DDA10F0,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-21 18:04:22,1347297.67,1,Wire,Hassan & Co Financials,Germany,Settled,Wire Transfer
+TXN6895E617,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-21 20:30:10,255145.38,1,Deposit,Self,India,Settled,Online Banking
+TXN2BA96F28,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-21 21:38:14,352803.54,1,Wire,Nexus Logistics,Switzerland,Settled,Wire Transfer
+TXN81D82BB6,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-22 00:01:35,24412.15,1,Withdrawal,Self,India,Settled,Branch
+TXN87A1C94F,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-22 00:47:19,1165204.52,1,Wire,Damascus Trading,United Kingdom,Settled,Wire Transfer
+TXNF8272CDF,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-22 01:08:46,703929.86,1,Wire,Hassan & Co Financials,United Kingdom,Settled,Wire Transfer
+TXN131BACC2,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-22 05:24:30,1962394.97,1,Wire,Hassan & Co Financials,United Kingdom,Settled,Wire Transfer
+TXN318AA827,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-22 06:38:22,336841.52,1,Deposit,Self,India,Settled,Mobile App
+TXND0FF77BD,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-22 07:21:17,98885.04,1,Transfer,M. K. Holdings,United States,Settled,Mobile App
+TXN3F249A85,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-22 09:38:31,492944.87,1,Withdrawal,Self,India,Settled,Mobile App
+TXNDUP001,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-22 11:00:05,50000.0,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXNDUP001,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-22 11:05:05,55000.0,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXN4BEEC31B,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-22 11:39:32,537508.23,1,Deposit,Self,India,Settled,Online Banking
+TXNCD1C86CF,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-22 12:18:51,528110.66,1,Transfer,Nexus Logistics,India,Settled,Mobile App
+TXNCC6F6DE0,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-22 13:54:25,123485.1,1,Transfer,Capital Horizons,North Korea,Settled,Mobile App
+TXN9A79C194,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-22 14:12:21,1795714.78,1,Withdrawal,Self,India,Pending,Online Banking
+TXNF375DC86,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-22 15:07:03,12572.01,1,Withdrawal,Self,India,Settled,Branch
+TXN8D69FA57,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-22 17:34:09,222968.38,1,Wire,Damascus Trading,United Kingdom,Settled,Wire Transfer
+TXNFD7B3594,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-22 20:24:15,7752.42,1,Withdrawal,Self,India,Pending,Branch
+TXNEF40D6F7,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-22 21:23:26,111540.51,1,Withdrawal,Self,India,Settled,Online Banking
+TXN754EBBE0,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-23 02:32:35,130873.73,1,Transfer,Sana Wires,Australia,Settled,Mobile App
+TXN76493DC3,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-23 04:01:06,143755.56,1,Withdrawal,Self,India,Settled,Online Banking
+TXNEF6F1328,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-23 04:49:43,869021.92,1,Transfer,Damascus Trading,Germany,Settled,Online Banking
+TXNF6232422,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-23 06:35:18,288209.35,1,Deposit,Self,India,Settled,Mobile App
+TXNC51EEEF4,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-23 07:50:02,2243712.73,1,Wire,Sana Wires,Japan,Settled,Wire Transfer
+TXNAB829078,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-23 17:24:46,28148.57,1,Withdrawal,Self,India,Settled,ATM
+TXN6EE47409,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-23 20:28:41,1020072.07,1,Withdrawal,Self,India,Settled,Mobile App
+TXN5A36DF31,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-23 23:05:45,3578425.35,1,Wire,Tehran General Commerce,Singapore,Settled,Wire Transfer
+TXNEB037C7F,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-24 02:02:39,208612.61,1,Wire,Sana Wires,Australia,Settled,Wire Transfer
+TXNDD887362,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-24 03:04:57,236976.1,1,Withdrawal,Self,India,Settled,Online Banking
+TXN0C51BA65,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-24 03:38:50,84553.16,1,Deposit,Self,India,Declined,Online Banking
+TXN8E532B2A,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-24 05:29:07,2496.73,1,Deposit,Self,India,Settled,Mobile App
+TXNDAD41336,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-24 08:35:33,13241.94,1,Transfer,Capital Horizons,Singapore,Settled,Online Banking
+TXN0A85475D,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-24 11:07:56,223017.4,1,Withdrawal,Self,India,Settled,Mobile App
+TXNC3BCEB90,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-24 20:05:03,105498.49,1,Transfer,Direct Express,UAE,Settled,Mobile App
+TXN025D5B9C,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-25 00:54:04,286732.33,1,Transfer,S.A. Trade Corp,India,Settled,Mobile App
+TXN4E2F4D9F,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-25 01:18:30,1475937.5,1,Deposit,Self,India,Settled,Mobile App
+TXN25CEC445,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-25 01:45:32,101610.88,1,Deposit,Self,India,Settled,Online Banking
+TXN339B650F,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-25 01:52:31,869891.62,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB00638BF,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-25 02:29:02,265372.4,1,Withdrawal,Self,India,Settled,Mobile App
+TXN142F26C4,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-25 05:09:39,573755.89,1,Wire,M. K. Holdings,Germany,Settled,Wire Transfer
+TXN4F6D3F6E,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-25 06:12:10,1458423.44,1,Deposit,Self,India,Settled,Mobile App
+TXNA08AF6D5,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-25 08:18:45,542671.21,1,Wire,Hassan & Co Financials,Switzerland,Settled,Wire Transfer
+TXNEF531348,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-25 09:41:30,118099.98,1,Transfer,Damascus Trading,Germany,Settled,Mobile App
+TXND1DED767,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-25 11:12:20,13878.68,1,Transfer,Pyongyang Export,Germany,Settled,Online Banking
+TXNB66ED445,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-25 13:32:01,847717.24,1,Deposit,Self,India,Settled,Mobile App
+TXNF6309D92,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-25 16:24:45,17726.69,1,Deposit,Self,India,Settled,Online Banking
+TXN68DBFE5D,CUST010,Amrita Sen,High,ACC1020,Checking,2026-04-25 18:01:32,1617446.91,1,Wire,Damascus Trading,United States,Settled,Wire Transfer
+TXNF2FF8B4E,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-25 18:18:34,634200.0,1,Deposit,Self,India,Settled,Mobile App
+TXN8FE87620,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-25 21:42:43,2111599.07,1,Wire,Vertex Clearing,United States,Settled,Wire Transfer
+TXNB340CCBC,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-25 21:47:14,156066.43,1,Withdrawal,Self,India,Settled,Online Banking
+TXN9EEB8773,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-25 23:02:06,905516.77,1,Transfer,Global Trading Ltd,Switzerland,Settled,Mobile App
+TXN0F96EEA8,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-26 04:55:22,514946.01,1,Transfer,Direct Express,India,Pending,Mobile App
+TXND68A8752,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-26 05:13:23,397291.82,1,Deposit,Self,India,Settled,Online Banking
+TXN373A84D9,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-26 05:52:37,94224.91,1,Transfer,Global Trading Ltd,Switzerland,Settled,Mobile App
+TXN2C87967B,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-26 07:35:53,1748153.21,1,Withdrawal,Self,India,Settled,Online Banking
+TXN28617120,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-26 13:08:55,183316.49,1,Withdrawal,Self,India,Settled,Online Banking
+TXN3BDCA93F,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-26 14:05:12,16311161.72,1,Withdrawal,Self,India,Settled,Mobile App
+TXNF6F1CF29,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-26 15:57:25,254612.62,1,Deposit,Self,India,Settled,Mobile App
+TXNFB303CAB,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-26 16:59:23,1173459.59,1,Transfer,M. K. Holdings,United States,Settled,Mobile App
+TXNEEC9DB61,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-26 19:33:08,85954.24,1,Withdrawal,Self,India,Settled,Mobile App
+TXN2EEE3E40,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-26 19:55:07,213740.32,1,Wire,Damascus Trading,Singapore,Settled,Wire Transfer
+TXNB5C7D623,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-26 20:05:33,58468.13,1,Transfer,M. K. Holdings,Singapore,Pending,Online Banking
+TXNC5F7216E,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-26 21:58:47,11755.41,1,Deposit,Self,India,Settled,Mobile App
+TXNB1CC3890,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-26 23:28:39,956577.23,1,Wire,Tehran General Commerce,Switzerland,Settled,Wire Transfer
+TXN7767F9C8,CUST001,Priya Patel,Low,ACC1004,Checking,2026-04-27 01:35:10,8343.7,1,Transfer,S.A. Trade Corp,United States,Settled,Online Banking
+TXNA12FA8B0,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-27 03:40:17,362720.5,1,Deposit,Self,India,Settled,Mobile App
+TXN21B2D7F0,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-27 06:25:39,8797.11,1,Withdrawal,Self,India,Settled,Branch
+TXN4FC39729,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-27 07:51:10,987.15,1,Withdrawal,Self,India,Settled,Branch
+TXN0D971600,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-27 08:39:47,234879.44,1,Wire,S.A. Trade Corp,Japan,Settled,Wire Transfer
+TXNB4BEAA97,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-27 09:35:43,854448.99,1,Wire,Pyongyang Export,Germany,Settled,Wire Transfer
+TXNDF6FF23E,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-27 13:24:33,1217654.09,1,Withdrawal,Self,India,Settled,Mobile App
+TXNF6305185,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-27 13:34:13,504256.16,1,Transfer,Damascus Trading,Singapore,Settled,Online Banking
+TXNE9E81CA6,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-27 14:23:48,4120.14,1,Deposit,Self,India,Pending,Online Banking
+TXN747198B0,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-27 22:31:42,398335.66,1,Transfer,M. K. Holdings,UAE,Settled,Online Banking
+TXN27EF300E,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-27 23:07:27,298386.44,1,Transfer,Direct Express,India,Settled,Mobile App
+TXNDB6D604E,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-28 01:56:33,127271.37,1,Wire,Pyongyang Export,India,Settled,Wire Transfer
+TXN59D85819,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-28 03:27:18,152722.78,1,Transfer,Sana Wires,United States,Settled,Online Banking
+TXN55F95AD7,CUST005,Amit Verma,Low,ACC1010,Checking,2026-04-28 03:44:31,118426.16,1,Transfer,Global Trading Ltd,United Kingdom,Pending,Online Banking
+TXNEC4DD22B,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-28 05:47:52,454526.69,1,Withdrawal,Self,India,Settled,Online Banking
+TXNCFB2A89C,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-28 06:34:49,3619539.45,1,Wire,Vertex Clearing,United States,Settled,Wire Transfer
+TXNEFD16529,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-28 07:28:51,63196.54,1,Deposit,Self,India,Settled,Mobile App
+TXNB039347A,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-04-28 10:58:46,195236.47,1,Deposit,Self,India,Declined,Mobile App
+TXN54E45103,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-28 11:07:04,175556.69,1,Wire,Tehran General Commerce,Australia,Settled,Wire Transfer
+TXNF721354E,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-28 16:03:33,196190.69,1,Deposit,Self,India,Settled,Mobile App
+TXNC6CED066,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-04-28 16:15:15,193088.85,1,Deposit,Self,India,Settled,Mobile App
+TXN470D4554,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-28 17:50:01,2975038.32,1,Wire,Direct Express,United Kingdom,Settled,Wire Transfer
+TXN9832E96C,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-28 21:11:43,84277.45,1,Withdrawal,Self,India,Settled,Mobile App
+TXN8366772C,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-04-28 21:18:20,9636088.33,1,Deposit,Self,India,Settled,Online Banking
+TXN4AA4C9AA,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-28 21:27:49,222960.56,1,Transfer,Direct Express,Canada,Settled,Online Banking
+TXND8A8D8E1,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-04-28 23:26:36,439516.55,1,Wire,S.A. Trade Corp,United Kingdom,Settled,Wire Transfer
+TXNB9651634,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-29 01:34:46,86147.44,1,Deposit,Self,India,Settled,Online Banking
+TXN29174D58,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-29 03:14:44,171651.53,1,Deposit,Self,India,Settled,Mobile App
+TXNC2E6D0F7,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-04-29 03:21:22,2080223.02,1,Wire,M. K. Holdings,United Kingdom,Settled,Wire Transfer
+TXNB3ACB410,CUST001,Priya Patel,Low,ACC1003,Checking,2026-04-29 05:30:34,1689879.08,1,Wire,Sana Wires,Australia,Settled,Wire Transfer
+TXN4B6BE5D6,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-29 05:36:45,830256.67,1,Wire,S.A. Trade Corp,United Kingdom,Settled,Wire Transfer
+TXN04069522,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-29 08:14:25,82084.34,1,Transfer,Sana Wires,Myanmar,Settled,Online Banking
+TXNF6EB2E30,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-04-29 11:07:18,1416948.92,1,Wire,Pyongyang Export,Switzerland,Settled,Wire Transfer
+TXND8639C57,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-29 11:08:09,329977.98,1,Withdrawal,Self,India,Settled,Mobile App
+TXN2C60FB9F,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-04-29 11:15:47,134671.31,1,Deposit,Self,India,Settled,Online Banking
+TXNA260D3F2,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-29 12:04:05,126796.18,1,Transfer,Damascus Trading,Switzerland,Settled,Online Banking
+TXNE40D27DB,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-29 12:10:17,1862071.34,1,Wire,Sana Wires,Singapore,Settled,Wire Transfer
+TXN889640F3,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-29 12:10:29,3485406.02,1,Wire,M. K. Holdings,India,Settled,Wire Transfer
+TXN34923807,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-04-29 13:42:30,204744.45,1,Transfer,Sana Wires,Germany,Settled,Online Banking
+TXNC8F63E93,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-29 16:34:44,4942.2,1,Deposit,Self,India,Settled,Online Banking
+TXN965C7DC1,CUST008,Karan Johar,Low,ACC1015,Business,2026-04-29 18:16:03,4054756.41,1,Wire,Sana Wires,Singapore,Settled,Wire Transfer
+TXN17B080FA,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-29 21:18:57,31848.62,1,Transfer,Global Trading Ltd,India,Settled,Online Banking
+TXN0C532E51,CUST008,Karan Johar,Low,ACC1014,Checking,2026-04-29 22:48:26,105107.93,1,Transfer,Direct Express,Japan,Settled,Online Banking
+TXN6651153A,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-30 01:00:34,443979.81,1,Deposit,Self,India,Settled,Online Banking
+TXN3D85E4E0,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-30 03:14:19,366622.18,1,Transfer,Direct Express,India,Settled,Mobile App
+TXNDA9CA382,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-04-30 03:33:14,3474608.42,1,Wire,Capital Horizons,Switzerland,Settled,Wire Transfer
+TXN8E3F3824,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-30 07:59:49,132077.38,1,Withdrawal,Self,India,Settled,Mobile App
+TXN9EDCD8E7,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-30 09:23:48,158985.16,1,Deposit,Self,India,Settled,Mobile App
+TXNC2578289,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-30 09:34:58,1615381.33,1,Wire,Tehran General Commerce,United States,Settled,Wire Transfer
+TXN8C179C65,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-04-30 10:17:24,522267.51,1,Deposit,Self,India,Settled,Mobile App
+TXNFDEB9427,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-04-30 10:20:00,828459.52,1,Wire,Tehran General Commerce,Germany,Settled,Wire Transfer
+TXN28A6AB3E,CUST005,Amit Verma,Low,ACC1011,Checking,2026-04-30 10:40:20,87961.22,1,Deposit,Self,India,Settled,Online Banking
+TXN8892A4AD,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-04-30 11:46:55,497782.71,1,Deposit,Self,India,Settled,Online Banking
+TXN5189E857,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-04-30 14:35:03,43703.32,1,Deposit,Self,India,Settled,Mobile App
+TXN3B41429D,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-04-30 19:10:07,7400.88,1,Withdrawal,Self,India,Settled,ATM
+TXNF9E57A32,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-04-30 19:15:48,1765.37,1,Withdrawal,Self,India,Settled,Branch
+TXNBA5A8C82,CUST010,Amrita Sen,High,ACC1021,Savings,2026-04-30 20:38:00,118301.21,1,Withdrawal,Self,India,Settled,Online Banking
+TXNBA62DC47,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-30 21:34:00,381923.69,1,Withdrawal,Self,India,Settled,Online Banking
+TXN46D20A79,CUST008,Karan Johar,Low,ACC1016,Checking,2026-04-30 22:06:46,31016.14,1,Deposit,Self,India,Settled,Online Banking
+TXN2664B47B,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-04-30 22:11:40,218492.14,1,Withdrawal,Self,India,Settled,Online Banking
+TXN1BE78E1E,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-01 03:16:45,137915.21,1,Transfer,Capital Horizons,United States,Settled,Online Banking
+TXNF1521D0B,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-01 06:26:38,90787.24,1,Withdrawal,Self,India,Settled,Mobile App
+TXNVOL000,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-01 11:00:05,100000.0,25,Transfer,Global Trading Ltd,India,Settled,Online Banking
+TXNF0A3075B,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-01 14:01:35,384611.68,1,Deposit,Self,India,Settled,Online Banking
+TXN72354B08,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-01 14:24:37,2281.94,1,Withdrawal,Self,India,Settled,ATM
+TXNB4ECD304,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-01 15:48:09,50901.39,1,Deposit,Self,India,Settled,Mobile App
+TXN315BB1DF,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-01 17:03:23,1145645.05,1,Wire,Global Trading Ltd,Singapore,Pending,Wire Transfer
+TXNA6A9FABD,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-01 17:21:23,301182.47,1,Deposit,Self,India,Settled,Mobile App
+TXN1E5672AD,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-01 21:08:25,445304.48,1,Wire,Damascus Trading,United Kingdom,Settled,Wire Transfer
+TXND37463A9,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-01 21:37:37,817520.95,1,Deposit,Self,India,Settled,Online Banking
+TXN6200C3F0,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-01 21:49:48,51452.75,1,Withdrawal,Self,India,Settled,Mobile App
+TXNA33172B5,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-02 00:09:09,617370.99,1,Wire,Capital Horizons,India,Pending,Wire Transfer
+TXN5440FC73,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-02 03:06:31,775427.97,1,Wire,S.A. Trade Corp,Japan,Settled,Wire Transfer
+TXN1386D477,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-02 04:48:49,112354.52,1,Wire,Hassan & Co Financials,Australia,Settled,Wire Transfer
+TXNE8568080,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-02 10:35:50,458430.38,1,Transfer,Nexus Logistics,United States,Pending,Mobile App
+TXNVOL001,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-02 11:00:05,100000.0,25,Transfer,Global Trading Ltd,India,Settled,Online Banking
+TXN5D6877EA,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-02 14:08:25,2085221.64,1,Wire,S.A. Trade Corp,Canada,Settled,Wire Transfer
+TXND87006AC,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-02 14:55:39,169775.15,1,Wire,Capital Horizons,Germany,Settled,Wire Transfer
+TXN24ACD2A0,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-02 21:20:52,101993.65,1,Wire,Vertex Clearing,United Kingdom,Settled,Wire Transfer
+TXN6C70543E,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-03 00:46:04,172280.79,1,Transfer,Vertex Clearing,UAE,Settled,Online Banking
+TXN09EE3758,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-03 00:57:09,1573176.89,1,Wire,Pyongyang Export,Australia,Settled,Wire Transfer
+TXN571AC3B0,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-03 01:50:32,538819.74,1,Withdrawal,Self,India,Settled,Online Banking
+TXN7B491164,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-03 03:46:20,802067.06,1,Transfer,Tehran General Commerce,Singapore,Settled,Mobile App
+TXNAD1DF013,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-03 04:32:52,128016.18,1,Transfer,Pyongyang Export,Japan,Settled,Online Banking
+TXNBF88440D,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-03 05:48:06,2151032.89,1,Withdrawal,Self,India,Settled,Online Banking
+TXNA165ACBD,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-03 08:07:49,408191.96,1,Transfer,S.A. Trade Corp,Australia,Settled,Online Banking
+TXN94B11490,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-03 10:56:38,37090.04,1,Transfer,Sana Wires,Canada,Settled,Mobile App
+TXN99103956,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-03 11:34:14,418670.26,1,Deposit,Self,India,Settled,Online Banking
+TXNFC4E5A97,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-03 14:44:52,17739024.15,1,Deposit,Self,India,Declined,Online Banking
+TXN8D1DC7FA,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-03 18:24:16,542628.36,1,Transfer,Nexus Logistics,Switzerland,Settled,Online Banking
+TXN1E1093B7,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-03 21:56:06,613258.57,1,Deposit,Self,India,Settled,Mobile App
+TXNA0CE2780,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-04 00:42:11,92938.95,1,Withdrawal,Self,India,Settled,Online Banking
+TXN36872D23,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-04 03:38:03,71509.17,1,Transfer,Nexus Logistics,Japan,Settled,Mobile App
+TXN80BE3516,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-04 04:23:41,416578.05,1,Deposit,Self,India,Settled,Online Banking
+TXN6905F46A,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-04 04:32:41,652506.91,1,Transfer,Hassan & Co Financials,Germany,Settled,Online Banking
+TXN954A3CD4,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-04 04:52:54,3163185.46,1,Wire,Vertex Clearing,Singapore,Settled,Wire Transfer
+TXN7F396D87,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-04 05:22:16,190669.9,1,Wire,Vertex Clearing,Japan,Settled,Wire Transfer
+TXNAADFA350,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-04 08:53:29,267645.5,1,Withdrawal,Self,India,Settled,Mobile App
+TXN4E2941CD,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-04 09:14:30,51579.62,1,Withdrawal,Self,India,Settled,Mobile App
+TXN885A2C2D,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-04 12:33:18,182110.11,1,Deposit,Self,India,Settled,Online Banking
+TXN93DA7830,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-04 15:15:19,22117.26,1,Transfer,S.A. Trade Corp,United Kingdom,Settled,Mobile App
+TXN3D3FF609,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-04 16:55:49,10804.93,1,Deposit,Self,India,Settled,Mobile App
+TXN0110C439,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-04 17:20:48,277113.35,1,Transfer,Global Trading Ltd,Singapore,Settled,Online Banking
+TXN01F21441,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-04 21:47:13,937816.17,1,Deposit,Self,India,Settled,Online Banking
+TXN23AA9971,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-04 21:59:51,9491.71,1,Transfer,Capital Horizons,Japan,Settled,Online Banking
+TXN6C11D4BC,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-04 23:25:44,314972.32,1,Withdrawal,Self,India,Settled,Online Banking
+TXN499B63DE,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-05 00:05:44,345640.24,1,Wire,Capital Horizons,Switzerland,Settled,Wire Transfer
+TXN04B2884C,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-05 03:34:03,14922.51,1,Transfer,Hassan & Co Financials,Australia,Settled,Online Banking
+TXNC56F5055,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-05 07:49:46,208298.31,1,Transfer,S.A. Trade Corp,Japan,Settled,Online Banking
+TXNA686914C,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-05 08:19:16,99459.41,1,Transfer,Sana Wires,United States,Settled,Online Banking
+TXN67865273,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-05 09:04:16,734519.55,1,Deposit,Self,India,Settled,Online Banking
+TXN28C50CA6,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-05 13:12:32,91253.05,1,Transfer,Global Trading Ltd,Japan,Settled,Online Banking
+TXN77407691,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-05 14:56:53,66472.47,1,Deposit,Self,India,Settled,Online Banking
+TXN1067DD4D,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-05 15:30:11,371007.64,1,Wire,S.A. Trade Corp,United Kingdom,Settled,Wire Transfer
+TXNEE3AD30C,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-05 16:35:24,91560.33,1,Wire,Sana Wires,Singapore,Settled,Wire Transfer
+TXN9CE48494,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-05 16:51:39,903965.11,1,Transfer,Tehran General Commerce,United Kingdom,Settled,Online Banking
+TXNFC28637A,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-05 20:43:32,4505.81,1,Deposit,Self,India,Settled,Online Banking
+TXN6F863FFB,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-06 00:33:40,50929.05,1,Wire,Pyongyang Export,Singapore,Settled,Wire Transfer
+TXN16F77559,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-06 01:27:07,65616.17,1,Deposit,Self,India,Settled,Mobile App
+TXN1661C396,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-06 07:30:06,755393.27,1,Wire,Damascus Trading,Japan,Settled,Wire Transfer
+TXNB6510ADA,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-06 10:26:33,1335471.52,1,Wire,Hassan & Co Financials,Canada,Settled,Wire Transfer
+TXN78D94792,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-06 13:15:32,31161.33,1,Transfer,S.A. Trade Corp,India,Settled,Mobile App
+TXN480CA3AE,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-06 13:55:03,524851.96,1,Wire,Capital Horizons,Japan,Settled,Wire Transfer
+TXNBE2D2CD8,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-06 14:23:18,124816.21,1,Deposit,Self,India,Settled,Online Banking
+TXN04A2A42C,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-06 16:12:13,4366233.25,1,Wire,S.A. Trade Corp,Switzerland,Settled,Wire Transfer
+TXNCA0E84EA,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-06 17:59:11,249896.12,1,Deposit,Self,India,Settled,Online Banking
+TXN90E3AC58,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-06 17:59:54,236488.12,1,Withdrawal,Self,India,Settled,Mobile App
+TXNF2631928,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-06 18:38:54,228234.05,1,Wire,Tehran General Commerce,North Korea,Settled,Wire Transfer
+TXNEC1FD51D,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-06 19:14:26,227850.82,1,Withdrawal,Self,India,Settled,Online Banking
+TXN681D5221,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-06 23:47:10,1992797.89,1,Wire,Global Trading Ltd,Australia,Settled,Wire Transfer
+TXNC591D5BF,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-07 01:18:13,74940.66,1,Deposit,Self,India,Settled,Mobile App
+TXN1498DB37,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-07 01:28:20,1887985.3,1,Withdrawal,Self,India,Settled,Mobile App
+TXN70968F52,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-07 04:54:02,650193.3,1,Deposit,Self,India,Settled,Mobile App
+TXN6803BC83,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-07 07:56:29,115275.65,1,Transfer,S.A. Trade Corp,UAE,Settled,Online Banking
+TXN7227B5D0,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-07 07:59:29,1056388.05,1,Transfer,Hassan & Co Financials,United States,Settled,Mobile App
+TXNB3F5E854,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-07 08:43:56,1296488.03,1,Withdrawal,Self,India,Settled,Online Banking
+TXN70D81841,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-07 09:43:55,197445.89,1,Transfer,Hassan & Co Financials,Canada,Settled,Online Banking
+TXNF3FC2A18,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-07 10:31:06,230024.11,1,Deposit,Self,India,Settled,Online Banking
+TXN72EE40EC,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-07 13:40:42,2528000.45,1,Wire,Damascus Trading,Australia,Settled,Wire Transfer
+TXN2FA6D982,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-07 15:26:34,543353.68,1,Wire,Vertex Clearing,United States,Settled,Wire Transfer
+TXN243A877C,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-07 17:59:57,1906001.67,1,Wire,Damascus Trading,Singapore,Settled,Wire Transfer
+TXNC62FE518,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-07 18:32:53,1213203.9,1,Wire,Tehran General Commerce,Germany,Settled,Wire Transfer
+TXN824B1C1C,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-07 19:32:20,474830.97,1,Transfer,Vertex Clearing,Australia,Settled,Online Banking
+TXN3AA97FD3,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-07 21:49:45,12344.52,1,Withdrawal,Self,India,Settled,Branch
+TXN3B6AAFAD,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-08 00:54:17,848223.56,1,Wire,Vertex Clearing,Singapore,Settled,Wire Transfer
+TXNB4062A18,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-08 01:06:24,4291357.77,1,Wire,Sana Wires,Canada,Settled,Wire Transfer
+TXN07AF3C60,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-08 01:29:49,288547.1,1,Withdrawal,Self,India,Settled,Online Banking
+TXN21E3A2C7,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-08 02:16:42,220310.12,1,Wire,Hassan & Co Financials,Japan,Settled,Wire Transfer
+TXNF19BB830,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-08 04:05:03,95792.32,1,Deposit,Self,India,Pending,Mobile App
+TXN1C7817FE,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-08 04:11:18,473298.84,1,Transfer,S.A. Trade Corp,United States,Settled,Mobile App
+TXNB032E23D,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-08 05:16:42,288015.8,1,Withdrawal,Self,India,Settled,Online Banking
+TXN7F817D02,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-08 06:28:17,119205.88,1,Wire,S.A. Trade Corp,Canada,Settled,Wire Transfer
+TXN6DE2D523,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-08 09:01:21,86660.45,1,Withdrawal,Self,India,Settled,Mobile App
+TXNEB84AEAB,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-08 11:43:56,42741.36,1,Transfer,Vertex Clearing,United States,Settled,Online Banking
+TXN24FF0D0B,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-08 11:48:00,679377.03,1,Wire,Tehran General Commerce,Canada,Settled,Wire Transfer
+TXN15967DED,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-08 13:31:09,428531.28,1,Wire,Direct Express,United Kingdom,Settled,Wire Transfer
+TXNB669C526,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-08 14:11:37,84477.8,1,Deposit,Self,India,Settled,Mobile App
+TXN87AF0310,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-08 14:44:08,73354.33,1,Wire,M. K. Holdings,Singapore,Settled,Wire Transfer
+TXN9A641655,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-08 15:16:56,3331904.71,1,Wire,Damascus Trading,UAE,Settled,Wire Transfer
+TXN59F181DD,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-08 15:35:56,102971.04,1,Wire,Hassan & Co Financials,India,Settled,Wire Transfer
+TXN5C50D2A1,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-08 17:53:56,659061.03,1,Wire,Hassan & Co Financials,UAE,Settled,Wire Transfer
+TXN8676E06A,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-08 18:21:23,304073.4,1,Withdrawal,Self,India,Settled,Mobile App
+TXND534C893,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-08 20:30:13,469826.32,1,Transfer,Tehran General Commerce,Japan,Settled,Online Banking
+TXN69542E22,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-08 20:45:22,171820.67,1,Withdrawal,Self,India,Settled,Mobile App
+TXN7BF08D14,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-08 21:32:23,465065.12,1,Deposit,Self,India,Settled,Online Banking
+TXN4ED871A7,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-09 00:06:59,2760.51,1,Transfer,Global Trading Ltd,United States,Declined,Online Banking
+TXN9EEE80D8,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-09 02:08:47,264624.17,1,Deposit,Self,India,Settled,Mobile App
+TXN14240940,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-09 02:38:24,145788.82,1,Deposit,Self,India,Settled,Online Banking
+TXN2D92C4EC,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-09 03:02:10,242796.85,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF13C1858,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-09 05:31:43,36258.88,1,Transfer,Direct Express,Switzerland,Settled,Online Banking
+TXNBB506CE4,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-09 10:02:40,3986482.57,1,Wire,S.A. Trade Corp,Singapore,Settled,Wire Transfer
+TXNC75BD237,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-09 10:05:10,260031.25,1,Withdrawal,Self,India,Declined,Online Banking
+TXN7622278D,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-09 10:35:12,154723.45,1,Withdrawal,Self,India,Settled,Mobile App
+TXN71BA985E,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-09 15:26:15,435254.15,1,Deposit,Self,India,Settled,Online Banking
+TXN74647EEF,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-09 17:11:25,82751.11,1,Withdrawal,Self,India,Settled,Online Banking
+TXN7B6BE782,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-09 21:15:47,96537.51,1,Transfer,Damascus Trading,Japan,Pending,Online Banking
+TXN3B99D925,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-09 21:21:39,153716.51,1,Withdrawal,Self,India,Settled,Online Banking
+TXNDC27D646,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-09 23:53:10,170462.16,1,Deposit,Self,India,Declined,Mobile App
+TXNCD306D7D,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-10 00:21:39,13815.65,1,Transfer,S.A. Trade Corp,Singapore,Settled,Online Banking
+TXN58F2A953,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-10 01:35:14,4350.15,1,Deposit,Self,India,Settled,Mobile App
+TXN3EC9AD89,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-10 02:45:47,16595.82,1,Transfer,Pyongyang Export,Japan,Settled,Online Banking
+TXN13A9C927,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-10 03:07:50,3649718.98,1,Transfer,Vertex Clearing,Singapore,Settled,Mobile App
+TXN85928F5F,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-10 03:52:27,84561.35,1,Withdrawal,Self,India,Settled,Mobile App
+TXN3A3AD023,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-10 04:35:05,113224.4,1,Withdrawal,Self,India,Settled,Mobile App
+TXNA025BC7B,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-10 05:26:57,23691.21,1,Transfer,Capital Horizons,United States,Settled,Online Banking
+TXN672D950F,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-10 07:39:15,109616.76,1,Withdrawal,Self,India,Settled,Mobile App
+TXN04B94FE4,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-10 07:50:35,49106.2,1,Deposit,Self,India,Settled,Online Banking
+TXNC306D60B,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-10 08:22:16,1579450.94,1,Wire,Capital Horizons,Switzerland,Settled,Wire Transfer
+TXN04CC49E8,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-10 08:42:24,371672.25,1,Withdrawal,Self,India,Settled,Online Banking
+TXN673AC993,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-10 08:48:19,212443.61,1,Wire,Damascus Trading,United States,Settled,Wire Transfer
+TXN8ECFF2AC,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-10 08:51:42,4943.07,1,Deposit,Self,India,Settled,Mobile App
+TXN6C8F946F,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-10 09:22:26,70627.55,1,Deposit,Self,India,Settled,Online Banking
+TXN618C568C,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-10 12:08:28,102731.6,1,Transfer,Capital Horizons,Canada,Settled,Online Banking
+TXN5C41AA59,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-10 14:47:09,97895.6,1,Withdrawal,Self,India,Settled,Online Banking
+TXN5073F82B,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-10 16:55:59,127114.91,1,Withdrawal,Self,India,Settled,Mobile App
+TXND35F4A25,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-10 19:41:21,11738.4,1,Withdrawal,Self,India,Settled,ATM
+TXN0381B8DD,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-10 22:27:07,14574.8,1,Deposit,Self,India,Settled,Mobile App
+TXN9F32F811,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-10 22:55:04,5594.25,1,Deposit,Self,India,Settled,Online Banking
+TXN08B9929A,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-11 00:22:24,93671.11,1,Wire,Sana Wires,Australia,Settled,Wire Transfer
+TXNEDC40437,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-11 01:31:41,19765.18,1,Transfer,Direct Express,Australia,Settled,Online Banking
+TXN931B6CC4,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-11 03:13:27,43807.02,1,Deposit,Self,India,Settled,Online Banking
+TXN436F01E0,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-11 03:17:57,17687.62,1,Wire,Sana Wires,United Kingdom,Settled,Wire Transfer
+TXNDFF25943,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-11 06:04:21,161407.27,1,Withdrawal,Self,India,Settled,Online Banking
+TXN4BA8285A,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-11 10:15:40,373204.52,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF3DE8858,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-11 10:24:40,679488.73,1,Deposit,Self,India,Pending,Mobile App
+TXN95210B16,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-11 13:22:08,196284.7,1,Withdrawal,Self,India,Settled,Online Banking
+TXN4AF9421E,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-11 13:38:33,148141.86,1,Deposit,Self,India,Settled,Mobile App
+TXN2A1C0149,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-11 16:05:32,28426.63,1,Withdrawal,Self,India,Settled,Branch
+TXNB2A42574,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-11 16:05:45,85109.35,1,Deposit,Self,India,Settled,Online Banking
+TXN53E7B4ED,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-11 20:11:27,1277658.93,1,Transfer,Global Trading Ltd,Japan,Settled,Mobile App
+TXNFC3C3C80,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-11 22:14:52,272694.6,1,Deposit,Self,India,Settled,Mobile App
+TXNA62DCAF4,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-11 23:52:23,42088.28,1,Withdrawal,Self,India,Settled,Online Banking
+TXNB0E64D7C,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-12 00:50:37,53029.89,1,Deposit,Self,India,Settled,Mobile App
+TXNCC87A287,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-12 01:53:13,161355.24,1,Transfer,S.A. Trade Corp,Japan,Settled,Mobile App
+TXNB74808D7,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-12 10:04:05,1440013.54,1,Wire,Vertex Clearing,United Kingdom,Settled,Wire Transfer
+TXN0A0949B7,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-12 12:04:48,19213.62,1,Transfer,Capital Horizons,Switzerland,Settled,Online Banking
+TXNA5B8ECA3,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-12 13:02:16,16781.24,1,Withdrawal,Self,India,Settled,Branch
+TXN230E4956,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-12 15:01:23,411751.1,1,Deposit,Self,India,Settled,Online Banking
+TXN6558F7DE,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-12 16:24:06,207144.94,1,Deposit,Self,India,Settled,Online Banking
+TXN017938EA,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-12 17:36:29,569764.55,1,Deposit,Self,India,Settled,Mobile App
+TXNA5A25E3C,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-12 20:00:02,24920.72,1,Deposit,Self,India,Settled,Mobile App
+TXN22CDE3A5,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-12 20:02:25,1180263.54,1,Wire,Nexus Logistics,Germany,Settled,Wire Transfer
+TXN26527360,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-13 00:59:05,1166015.58,1,Transfer,Tehran General Commerce,United Kingdom,Settled,Mobile App
+TXN0C962662,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-13 02:48:42,491098.88,1,Withdrawal,Self,India,Settled,Mobile App
+TXN51B361A6,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-13 09:58:14,250966.1,1,Wire,Sana Wires,United Kingdom,Settled,Wire Transfer
+TXN1F3D1CE9,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-13 12:09:07,221566.07,1,Withdrawal,Self,India,Settled,Mobile App
+TXN461B092A,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-13 13:55:20,32164.9,1,Withdrawal,Self,India,Settled,Branch
+TXNAF0CFE3F,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-13 15:18:37,586394.46,1,Transfer,Damascus Trading,United States,Settled,Mobile App
+TXNB40273FB,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-13 15:37:58,804674.8,1,Deposit,Self,India,Settled,Mobile App
+TXN9C7A4689,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-13 15:42:21,221529.5,1,Deposit,Self,India,Settled,Mobile App
+TXNEB132B71,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-13 15:53:23,30810.21,1,Transfer,M. K. Holdings,India,Settled,Online Banking
+TXN4591114A,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-13 16:22:25,223969.79,1,Deposit,Self,India,Settled,Online Banking
+TXN05BB4F60,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-13 16:33:39,29331.32,1,Withdrawal,Self,India,Settled,ATM
+TXN0915B9F0,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-13 19:39:04,92345.35,1,Deposit,Self,India,Settled,Mobile App
+TXN17D02D61,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-13 19:41:23,2446.43,1,Deposit,Self,India,Settled,Online Banking
+TXN4C7308DA,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-13 19:52:10,8190.01,1,Withdrawal,Self,India,Settled,ATM
+TXNB0D588F6,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-13 20:27:33,317575.53,1,Transfer,S.A. Trade Corp,Australia,Settled,Mobile App
+TXNBE64C8F4,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-13 23:28:47,666006.89,1,Withdrawal,Self,India,Settled,Online Banking
+TXN32A113A3,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-13 23:40:08,3248822.03,1,Wire,Direct Express,United States,Settled,Wire Transfer
+TXNEB0ED8C1,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-14 01:51:40,183399.07,1,Transfer,Vertex Clearing,UAE,Settled,Online Banking
+TXN490A10F4,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-14 02:19:48,100654.44,1,Transfer,Global Trading Ltd,UAE,Settled,Mobile App
+TXN5A2854FA,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-14 02:40:46,326980.83,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB8CAD0BB,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-14 03:50:21,1172078.76,1,Wire,S.A. Trade Corp,India,Settled,Wire Transfer
+TXN5A9F6612,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-14 07:44:12,652601.34,1,Wire,Nexus Logistics,UAE,Settled,Wire Transfer
+TXN7B59C373,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-14 09:21:40,120869.53,1,Withdrawal,Self,India,Settled,Mobile App
+TXN77D9531E,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-14 10:49:43,47664.87,1,Deposit,Self,India,Settled,Mobile App
+TXN0BE37CBB,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-14 17:33:07,18264.55,1,Transfer,Global Trading Ltd,India,Settled,Mobile App
+TXNF75188F5,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-14 18:34:59,200898.26,1,Wire,Capital Horizons,Japan,Settled,Wire Transfer
+TXND915C2C9,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-14 19:00:21,1448690.72,1,Transfer,Damascus Trading,Canada,Settled,Online Banking
+TXNA5ADC780,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-14 19:04:06,165747.1,1,Transfer,Nexus Logistics,United States,Settled,Mobile App
+TXNE6921787,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-14 20:57:15,562089.96,1,Deposit,Self,India,Settled,Mobile App
+TXNC525A396,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-14 21:42:42,3214165.51,1,Wire,Tehran General Commerce,United Kingdom,Settled,Wire Transfer
+TXN1CE089BE,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-14 21:44:34,17424.24,1,Withdrawal,Self,India,Settled,ATM
+TXN9950A4EC,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-14 23:55:53,447572.47,1,Transfer,Global Trading Ltd,Germany,Settled,Mobile App
+TXN7A44D601,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-15 00:43:40,250243.6,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXN945F3B20,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-15 01:32:27,4074.5,1,Withdrawal,Self,India,Settled,Branch
+TXNF684E3AB,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-15 02:54:45,283011.08,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF431840B,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-15 06:55:42,676820.21,1,Withdrawal,Self,India,Settled,Online Banking
+TXN59BBC1DF,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-15 10:35:35,81534.78,1,Deposit,Self,India,Settled,Online Banking
+TXNB513881C,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-15 12:04:00,51217.33,1,Deposit,Self,India,Settled,Online Banking
+TXN928A39BF,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-15 13:30:21,21882.64,1,Withdrawal,Self,India,Settled,ATM
+TXN33328A56,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-15 14:24:30,105544.51,1,Withdrawal,Self,India,Settled,Online Banking
+TXNCD194A5E,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-15 18:06:57,7971.38,1,Withdrawal,Self,India,Settled,Branch
+TXN925474C0,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-15 19:03:17,11973.96,1,Withdrawal,Self,India,Settled,Branch
+TXN7551FA48,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-16 01:57:33,2645149.72,1,Wire,Pyongyang Export,Singapore,Settled,Wire Transfer
+TXN0613F285,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-16 06:52:12,26041.87,1,Transfer,Global Trading Ltd,UAE,Settled,Mobile App
+TXN97DFF568,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-16 09:00:30,1274210.01,1,Withdrawal,Self,India,Settled,Online Banking
+TXN0DEEC1C2,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-16 09:26:14,205611.41,1,Wire,Direct Express,Switzerland,Settled,Wire Transfer
+TXNDBF64D5E,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-16 10:10:11,793218.24,1,Withdrawal,Self,India,Settled,Mobile App
+TXN667EA906,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-16 10:11:24,179610.64,1,Transfer,Nexus Logistics,UAE,Settled,Mobile App
+TXNSTR000,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-16 11:00:05,951777.45,1,Wire,Tehran General Commerce,Iran,Settled,Wire Transfer
+TXNFCE5B7A1,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-16 12:42:02,16291.17,1,Transfer,Nexus Logistics,Australia,Settled,Mobile App
+TXNSTR001,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-16 13:00:05,951333.92,1,Wire,Tehran General Commerce,Iran,Settled,Wire Transfer
+TXNB2C5D1C7,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-16 14:59:43,439234.43,1,Transfer,Damascus Trading,Singapore,Settled,Mobile App
+TXNSTR002,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-16 15:00:05,931863.52,1,Wire,Tehran General Commerce,Iran,Settled,Wire Transfer
+TXN8B57D859,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-16 15:38:30,1925980.16,1,Wire,Nexus Logistics,Singapore,Settled,Wire Transfer
+TXNSTR003,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-16 17:00:05,979659.03,1,Wire,Tehran General Commerce,Iran,Settled,Wire Transfer
+TXNSTR004,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-16 19:00:05,956341.16,1,Wire,Tehran General Commerce,Iran,Settled,Wire Transfer
+TXN6B1234C8,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-16 20:44:08,476469.71,1,Wire,Hassan & Co Financials,United States,Settled,Wire Transfer
+TXNB70A7EA4,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-16 22:07:23,81138.05,1,Wire,Nexus Logistics,United Kingdom,Settled,Wire Transfer
+TXNCF125627,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-16 22:22:37,984757.91,1,Transfer,Hassan & Co Financials,Australia,Settled,Mobile App
+TXN9453E495,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-16 23:58:50,48939.86,1,Withdrawal,Self,India,Settled,Online Banking
+TXNF125AE72,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-17 02:48:05,14631.97,1,Deposit,Self,India,Settled,Mobile App
+TXND18A3DD0,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-17 04:27:58,641031.57,1,Wire,M. K. Holdings,Canada,Pending,Wire Transfer
+TXN408DF8CB,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-17 15:36:00,214758.85,1,Withdrawal,Self,India,Settled,Mobile App
+TXNE3FA40AA,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-17 19:02:15,74235.53,1,Deposit,Self,India,Settled,Mobile App
+TXNF9D52606,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-17 19:24:28,522901.76,1,Wire,Hassan & Co Financials,United States,Settled,Wire Transfer
+TXNC7A6C128,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-17 21:12:58,46878.64,1,Transfer,Global Trading Ltd,Singapore,Pending,Mobile App
+TXN8A9DC09A,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-18 00:56:42,160595.52,1,Withdrawal,Self,India,Settled,Mobile App
+TXN2F551460,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-18 01:02:23,1195039.49,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXNE6EFCAD0,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-18 01:07:53,195169.19,1,Wire,Sana Wires,India,Settled,Wire Transfer
+TXN88F4DB80,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-18 02:35:48,12076.31,1,Withdrawal,Self,India,Settled,ATM
+TXN22727FDD,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-18 03:32:32,16092.49,1,Deposit,Self,India,Settled,Online Banking
+TXN7E5B427E,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-18 05:50:02,81914.37,1,Deposit,Self,India,Settled,Mobile App
+TXN2E457AA1,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-18 08:22:13,2671265.47,1,Wire,Vertex Clearing,United Kingdom,Settled,Wire Transfer
+TXNC746BA00,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-18 11:30:50,2084418.79,1,Transfer,Sana Wires,Australia,Declined,Online Banking
+TXN0220129D,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-18 15:06:51,737250.46,1,Transfer,S.A. Trade Corp,Switzerland,Settled,Mobile App
+TXNA6B1CD34,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-18 15:37:22,91968.99,1,Transfer,Global Trading Ltd,United States,Settled,Online Banking
+TXN02A4E150,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-18 17:26:31,230852.78,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB8734732,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-18 17:47:16,72033.62,1,Withdrawal,Self,India,Settled,Online Banking
+TXNE5BCC086,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-18 22:13:17,918962.38,1,Deposit,Self,India,Settled,Online Banking
+TXNAA6A74D8,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-18 23:03:41,78272.71,1,Deposit,Self,India,Settled,Online Banking
+TXNAD7E297B,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-19 00:53:21,1242889.94,1,Transfer,Hassan & Co Financials,India,Settled,Online Banking
+TXN87D4266B,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-19 00:59:01,325313.89,1,Wire,Global Trading Ltd,Canada,Settled,Wire Transfer
+TXND91A1B54,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-19 01:14:31,986484.39,1,Wire,Vertex Clearing,Canada,Pending,Wire Transfer
+TXN96574B3A,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-19 02:40:55,79593.2,1,Withdrawal,Self,India,Settled,Online Banking
+TXNCA3574C5,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-19 05:43:36,471584.36,1,Wire,Direct Express,UAE,Settled,Wire Transfer
+TXNE571C02A,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-19 07:11:29,38824.7,1,Deposit,Self,India,Settled,Mobile App
+TXN7A70F3F9,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-19 08:32:39,919490.73,1,Wire,Pyongyang Export,Singapore,Settled,Wire Transfer
+TXN39998F3B,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-19 09:30:04,72765.32,1,Deposit,Self,India,Settled,Mobile App
+TXN9AFF9BA7,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-19 09:35:57,675443.77,1,Transfer,Hassan & Co Financials,Canada,Settled,Mobile App
+TXN270AF75F,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-19 11:55:19,585485.53,1,Withdrawal,Self,India,Settled,Online Banking
+TXN3D5EF056,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-19 11:57:38,349475.5,1,Wire,Nexus Logistics,United States,Settled,Wire Transfer
+TXN08B22C80,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-19 13:27:54,2304124.13,1,Wire,Vertex Clearing,United States,Settled,Wire Transfer
+TXNF6E75204,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-19 13:41:39,593550.32,1,Wire,Pyongyang Export,Switzerland,Settled,Wire Transfer
+TXN00D9456D,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-19 14:41:39,351593.55,1,Wire,Sana Wires,Canada,Settled,Wire Transfer
+TXN1FF55966,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-19 15:24:20,68179.47,1,Deposit,Self,India,Settled,Mobile App
+TXNC8E18DAB,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-19 15:50:56,14400323.41,1,Withdrawal,Self,India,Settled,Online Banking
+TXN7F684B1E,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-19 16:45:41,354687.42,1,Wire,Hassan & Co Financials,Singapore,Settled,Wire Transfer
+TXNCED7F0D2,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-19 18:28:36,935059.63,1,Wire,Nexus Logistics,India,Settled,Wire Transfer
+TXNC5C8D14D,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-19 21:07:56,2712582.4,1,Wire,Tehran General Commerce,United States,Settled,Wire Transfer
+TXN16DFBFE1,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-19 23:41:51,97818.92,1,Wire,Pyongyang Export,Switzerland,Settled,Wire Transfer
+TXND3E9F8AE,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-19 23:45:48,305056.05,1,Deposit,Self,India,Settled,Mobile App
+TXNEB45F224,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-20 00:40:41,101822.38,1,Deposit,Self,India,Settled,Mobile App
+TXN95FD9E6A,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-20 02:50:46,38767.14,1,Withdrawal,Self,India,Settled,Branch
+TXN9B2FFF91,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-20 05:59:15,341313.32,1,Transfer,Hassan & Co Financials,India,Settled,Online Banking
+TXN59535ED9,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-20 07:46:02,156379.93,1,Wire,Nexus Logistics,United States,Settled,Wire Transfer
+TXNEB28593E,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-20 08:12:58,424235.29,1,Deposit,Self,India,Settled,Online Banking
+TXN60CB889D,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-20 09:01:39,9942.28,1,Deposit,Self,India,Settled,Online Banking
+TXN1F44AAC4,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-20 09:20:39,2246617.23,1,Transfer,Sana Wires,United Kingdom,Settled,Mobile App
+TXNF64A41A5,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-20 09:33:51,948289.58,1,Withdrawal,Self,India,Settled,Mobile App
+TXNE9451B77,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-20 10:15:00,459679.79,1,Transfer,Damascus Trading,Singapore,Settled,Online Banking
+TXN8935E148,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-20 10:15:25,2820985.91,1,Deposit,Self,India,Settled,Online Banking
+TXN2F1027C2,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-20 10:39:31,30538.45,1,Withdrawal,Self,India,Settled,ATM
+TXNC55879C6,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-20 15:06:22,505668.53,1,Withdrawal,Self,India,Pending,Mobile App
+TXN88AA6DBC,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-20 17:34:46,399919.92,1,Transfer,M. K. Holdings,Australia,Settled,Online Banking
+TXNE04FD86B,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-20 23:50:22,54990.72,1,Transfer,M. K. Holdings,Switzerland,Settled,Online Banking
+TXN61C4BF08,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-21 00:01:56,114816.36,1,Deposit,Self,India,Settled,Mobile App
+TXN28FE2319,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-21 02:13:44,201966.43,1,Withdrawal,Self,India,Settled,Online Banking
+TXN2BD8B181,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-21 02:17:42,2230333.9,1,Deposit,Self,India,Settled,Mobile App
+TXN9F010739,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-21 03:25:34,1209076.1,1,Wire,Nexus Logistics,India,Settled,Wire Transfer
+TXN783B6A8A,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-21 03:54:09,1083656.54,1,Wire,Sana Wires,Canada,Settled,Wire Transfer
+TXN29327DD5,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-21 04:16:35,197502.83,1,Transfer,Nexus Logistics,Australia,Settled,Online Banking
+TXNF920B7E1,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-21 09:15:30,191104.7,1,Wire,Hassan & Co Financials,Germany,Settled,Wire Transfer
+TXNB80A5435,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-21 09:24:23,187533.3,1,Wire,Damascus Trading,United Kingdom,Settled,Wire Transfer
+TXN8B423D43,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-21 12:24:25,303439.73,1,Transfer,Damascus Trading,UAE,Declined,Mobile App
+TXN96F1A9A8,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-21 14:40:00,106090.41,1,Wire,Sana Wires,Japan,Settled,Wire Transfer
+TXN593ED6EB,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-21 18:05:12,402660.7,1,Transfer,Tehran General Commerce,Canada,Settled,Online Banking
+TXN0F94B800,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-21 19:07:54,210415.39,1,Transfer,M. K. Holdings,Australia,Pending,Online Banking
+TXN520A69ED,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-21 21:02:45,25441.3,1,Withdrawal,Self,India,Settled,ATM
+TXNC80597B7,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-21 21:53:28,310625.48,1,Withdrawal,Self,India,Settled,Mobile App
+TXN42C934C1,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-22 00:35:20,29139.43,1,Transfer,Direct Express,Germany,Settled,Online Banking
+TXNAFA0DFBC,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-22 01:14:22,86162.5,1,Deposit,Self,India,Settled,Mobile App
+TXN7BF99E74,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-22 01:45:48,53495.18,1,Withdrawal,Self,India,Settled,Mobile App
+TXN0A9F751D,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-22 03:05:32,859834.37,1,Wire,Tehran General Commerce,India,Settled,Wire Transfer
+TXN339CEACC,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-22 05:03:53,316088.47,1,Deposit,Self,India,Settled,Mobile App
+TXND05AD057,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-22 06:04:44,476355.55,1,Deposit,Self,India,Settled,Mobile App
+TXN4597096F,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-22 07:55:24,67700.5,1,Deposit,Self,India,Settled,Online Banking
+TXN15664D20,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-22 09:26:50,1092669.81,1,Transfer,Pyongyang Export,Australia,Settled,Mobile App
+TXNE177D46B,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-22 09:46:44,212403.05,1,Transfer,Nexus Logistics,Singapore,Pending,Mobile App
+TXNE2CE4958,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-22 14:39:02,23731.58,1,Withdrawal,Self,India,Pending,ATM
+TXN41CEEAF7,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-22 16:03:26,106376.17,1,Deposit,Self,India,Settled,Mobile App
+TXN9C6500C7,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-22 17:44:06,27158.51,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXNE509F287,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-23 03:00:42,560227.36,1,Wire,Hassan & Co Financials,United Kingdom,Settled,Wire Transfer
+TXN4A62DE77,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-23 03:14:47,165793.56,1,Withdrawal,Self,India,Settled,Mobile App
+TXN10F88053,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-23 03:27:55,55986.41,1,Withdrawal,Self,India,Pending,Online Banking
+TXN7B1AC230,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-23 04:36:47,676240.36,1,Withdrawal,Self,India,Settled,Online Banking
+TXN75685B3F,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-23 05:17:51,10913.35,1,Transfer,Direct Express,UAE,Settled,Online Banking
+TXN6CB676B7,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-23 07:09:27,272951.74,1,Transfer,Global Trading Ltd,Germany,Settled,Online Banking
+TXN9956DF6C,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-23 11:49:07,116392.01,1,Withdrawal,Self,India,Settled,Online Banking
+TXN5C4492DF,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-23 11:52:18,75179.4,1,Withdrawal,Self,India,Declined,Mobile App
+TXN7AC306C7,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-23 13:09:35,235183.13,1,Transfer,Vertex Clearing,United Kingdom,Settled,Online Banking
+TXN7E77B468,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-23 13:24:10,195883.0,1,Transfer,S.A. Trade Corp,Germany,Settled,Mobile App
+TXN97E2D8F8,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-23 14:23:42,47027.56,1,Withdrawal,Self,India,Settled,Mobile App
+TXN07B516D4,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-23 17:56:02,481113.81,1,Deposit,Self,India,Settled,Online Banking
+TXN8723E509,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-23 18:16:53,54847.54,1,Wire,Hassan & Co Financials,United States,Settled,Wire Transfer
+TXN9FA5DFEA,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-24 00:57:07,62168.59,1,Withdrawal,Self,India,Settled,Mobile App
+TXN2FC6625C,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-24 01:54:13,1022456.27,1,Wire,Capital Horizons,Australia,Settled,Wire Transfer
+TXN0D1E63B5,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-24 05:20:10,57197.7,1,Deposit,Self,India,Settled,Online Banking
+TXND8002318,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-24 07:41:32,18839.23,1,Deposit,Self,India,Settled,Mobile App
+TXNF3AEC1FF,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-24 10:31:08,898336.24,1,Withdrawal,Self,India,Settled,Online Banking
+TXN9E912204,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-24 11:10:04,64115.61,1,Withdrawal,Self,India,Settled,Online Banking
+TXN913C618F,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-24 12:41:39,45163.42,1,Deposit,Self,India,Settled,Mobile App
+TXNBE51294C,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-24 12:46:21,505780.22,1,Transfer,Tehran General Commerce,Singapore,Settled,Mobile App
+TXN78089EFB,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-24 14:40:40,68491.21,1,Transfer,Nexus Logistics,United Kingdom,Settled,Mobile App
+TXN97318D70,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-24 17:23:46,3565.63,1,Withdrawal,Self,India,Settled,Branch
+TXNA350141C,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-24 17:24:05,973679.8,1,Deposit,Self,India,Settled,Mobile App
+TXN0418F457,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-24 21:54:54,3172628.15,1,Wire,Direct Express,Germany,Settled,Wire Transfer
+TXN8283AF34,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-25 01:50:29,511383.23,1,Transfer,M. K. Holdings,Japan,Settled,Online Banking
+TXND468E7BF,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-25 02:28:08,25674.56,1,Withdrawal,Self,India,Settled,ATM
+TXNF425B3B3,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-25 04:58:38,215857.12,1,Transfer,Global Trading Ltd,Australia,Settled,Online Banking
+TXN639D1AD6,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-25 05:39:39,56293.42,1,Deposit,Self,India,Settled,Mobile App
+TXNE9DCE735,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-25 06:47:41,183353.76,1,Deposit,Self,India,Settled,Online Banking
+TXN15E30612,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-25 09:01:40,4950.78,1,Deposit,Self,India,Settled,Mobile App
+TXNFC960973,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-25 09:55:49,230940.6,1,Withdrawal,Self,India,Settled,Online Banking
+TXNA0385C51,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-25 10:09:59,16425.28,1,Transfer,Nexus Logistics,UAE,Settled,Online Banking
+TXN5AE202B6,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-25 14:11:30,5021.06,1,Transfer,Nexus Logistics,Canada,Settled,Mobile App
+TXN3A458A75,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-25 14:55:55,1214193.03,1,Wire,Nexus Logistics,Switzerland,Settled,Wire Transfer
+TXN3859B29D,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-25 15:41:36,471208.63,1,Wire,Capital Horizons,United Kingdom,Settled,Wire Transfer
+TXN21B498F4,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-25 17:40:55,33545.41,1,Transfer,Pyongyang Export,United States,Settled,Online Banking
+TXND7A419A3,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-25 20:49:26,205751.75,1,Withdrawal,Self,India,Settled,Mobile App
+TXNF9CBC114,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-25 21:09:48,37530.6,1,Transfer,Global Trading Ltd,Canada,Settled,Online Banking
+TXNDBEF10C8,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-25 22:22:29,192540.91,1,Transfer,Vertex Clearing,United Kingdom,Settled,Online Banking
+TXN53AA4D6B,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-25 22:22:48,20323.57,1,Transfer,Hassan & Co Financials,United Kingdom,Settled,Online Banking
+TXNA5CAC0AA,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-25 23:23:22,45549.74,1,Transfer,M. K. Holdings,Germany,Settled,Mobile App
+TXNCFDB2512,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-26 01:44:31,186857.56,1,Deposit,Self,India,Settled,Online Banking
+TXN19552A19,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-26 02:04:54,100169.56,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB3399222,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-26 05:23:52,13592.44,1,Deposit,Self,India,Settled,Online Banking
+TXNC35209BF,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-26 07:52:41,867851.39,1,Wire,M. K. Holdings,Japan,Settled,Wire Transfer
+TXN9FA15F50,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-26 08:51:39,1788121.45,1,Transfer,Damascus Trading,Germany,Settled,Mobile App
+TXNA4BDB8C3,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-26 13:32:56,111164.07,1,Transfer,S.A. Trade Corp,United States,Settled,Mobile App
+TXNB8154B84,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-26 14:29:53,203342.52,1,Withdrawal,Self,India,Settled,Mobile App
+TXNDDCD37F0,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-26 15:52:40,248774.28,1,Transfer,M. K. Holdings,Japan,Settled,Mobile App
+TXN97968407,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-26 20:59:51,496126.56,1,Deposit,Self,India,Settled,Online Banking
+TXN052023C9,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-26 21:33:07,42064.98,1,Wire,Damascus Trading,Germany,Settled,Wire Transfer
+TXN0A140074,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-27 02:08:09,1195692.31,1,Wire,S.A. Trade Corp,Canada,Settled,Wire Transfer
+TXN1FE1799C,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-27 04:14:15,277312.52,1,Withdrawal,Self,India,Settled,Online Banking
+TXNEAAA5F4F,CUST008,Karan Johar,Low,ACC1014,Checking,2026-05-27 04:57:36,17078.64,1,Transfer,Tehran General Commerce,United Kingdom,Settled,Online Banking
+TXN5582F182,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-27 12:35:31,55101.37,1,Wire,Damascus Trading,Singapore,Settled,Wire Transfer
+TXN622DE9D9,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-27 15:29:41,82935.41,1,Transfer,Capital Horizons,Japan,Settled,Online Banking
+TXNC8F5BC52,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-27 17:32:52,443356.79,1,Transfer,Hassan & Co Financials,UAE,Settled,Online Banking
+TXN8E8CF58B,CUST001,Priya Patel,Low,ACC1004,Checking,2026-05-27 17:34:35,202035.18,1,Transfer,Direct Express,Germany,Settled,Mobile App
+TXN44B32334,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-27 22:12:37,478884.12,1,Transfer,Global Trading Ltd,United Kingdom,Settled,Online Banking
+TXN368876CB,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-05-27 23:19:57,880658.66,1,Deposit,Self,India,Settled,Mobile App
+TXN967CD781,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-28 00:43:49,824206.13,1,Wire,Hassan & Co Financials,Germany,Settled,Wire Transfer
+TXNE4CA2556,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-28 00:50:45,16769.53,1,Deposit,Self,India,Settled,Online Banking
+TXN9D257B89,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-28 03:11:32,906599.45,1,Withdrawal,Self,India,Settled,Mobile App
+TXNC86E5D9F,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-28 05:57:59,134633.16,1,Withdrawal,Self,India,Settled,Online Banking
+TXNDC5A205D,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-28 10:40:40,103722.82,1,Withdrawal,Self,India,Settled,Mobile App
+TXNF498CF8C,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-28 11:41:04,553577.34,1,Wire,Sana Wires,India,Settled,Wire Transfer
+TXNF2F4C2C0,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-28 12:31:22,1726592.66,1,Deposit,Self,India,Pending,Mobile App
+TXN1398FAB5,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-28 14:43:57,10948.4,1,Withdrawal,Self,India,Settled,Branch
+TXN33BF0CA5,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-05-28 15:12:47,117264.57,1,Wire,Vertex Clearing,Singapore,Settled,Wire Transfer
+TXNE4043882,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-28 15:27:24,41960.35,1,Withdrawal,Self,India,Settled,Online Banking
+TXN1A1A72A6,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-28 20:34:12,159607.95,1,Transfer,Nexus Logistics,United States,Settled,Mobile App
+TXN327A8AA3,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-28 22:49:52,323920.16,1,Withdrawal,Self,India,Settled,Online Banking
+TXN520B0B25,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-29 01:00:30,55493.0,1,Transfer,Damascus Trading,Japan,Settled,Mobile App
+TXN69DEDF91,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-29 02:25:45,1006022.29,1,Transfer,M. K. Holdings,Canada,Settled,Mobile App
+TXN65AFE51C,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-29 02:51:51,182996.55,1,Transfer,Tehran General Commerce,United Kingdom,Settled,Online Banking
+TXND9B79FFD,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-29 04:25:14,11321.02,1,Deposit,Self,India,Settled,Online Banking
+TXNEA2606BD,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-29 08:37:17,2037876.13,1,Wire,S.A. Trade Corp,Singapore,Settled,Wire Transfer
+TXN437D5565,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-29 08:56:31,1214605.39,1,Wire,Global Trading Ltd,Switzerland,Settled,Wire Transfer
+TXN71D99425,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-29 09:56:02,89223.41,1,Deposit,Self,India,Settled,Online Banking
+TXN24280CDA,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-29 12:20:52,178653.23,1,Transfer,Capital Horizons,Singapore,Settled,Mobile App
+TXNF235C618,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-29 13:46:58,219787.74,1,Deposit,Self,India,Settled,Mobile App
+TXN14E6093A,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-29 14:10:48,258919.51,1,Deposit,Self,India,Settled,Mobile App
+TXN2AEE896F,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-29 16:14:57,694748.8,1,Wire,Vertex Clearing,Singapore,Settled,Wire Transfer
+TXN936E5064,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-05-29 19:00:53,529904.61,1,Deposit,Self,India,Settled,Online Banking
+TXN76EB1BCA,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-29 22:18:08,616096.16,1,Wire,Damascus Trading,Singapore,Settled,Wire Transfer
+TXN9C7B1A4F,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-29 22:43:01,97929.38,1,Withdrawal,Self,India,Settled,Online Banking
+TXNED24250F,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-05-29 23:05:17,1983051.02,1,Wire,Nexus Logistics,Germany,Settled,Wire Transfer
+TXN7757BB69,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-30 00:10:33,350774.93,1,Deposit,Self,India,Settled,Mobile App
+TXN0020B301,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-30 02:04:35,1444492.55,1,Wire,Capital Horizons,Australia,Settled,Wire Transfer
+TXN76ADAEBF,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-30 03:50:51,892127.2,1,Deposit,Self,India,Settled,Mobile App
+TXN843CA4ED,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-30 04:59:34,19695.76,1,Deposit,Self,India,Settled,Mobile App
+TXNCC761A69,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-30 05:56:40,144453.61,1,Transfer,Hassan & Co Financials,United Kingdom,Settled,Mobile App
+TXN89CD9AB9,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-30 06:31:29,289471.66,1,Deposit,Self,India,Settled,Mobile App
+TXNA999B726,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-30 07:35:45,544590.81,1,Wire,S.A. Trade Corp,United States,Settled,Wire Transfer
+TXN6BA7CC48,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-30 08:41:50,12833.87,1,Deposit,Self,India,Settled,Mobile App
+TXNCDA08415,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-05-30 10:06:54,154191.19,1,Transfer,M. K. Holdings,Australia,Settled,Mobile App
+TXNEB0FD740,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-05-30 10:08:45,88142.49,1,Transfer,S.A. Trade Corp,Germany,Settled,Online Banking
+TXN3D62C036,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-05-30 10:56:59,343135.1,1,Wire,Tehran General Commerce,Japan,Pending,Wire Transfer
+TXN56CC2DEF,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-30 13:29:08,413822.91,1,Deposit,Self,India,Settled,Mobile App
+TXN470D73B1,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-30 15:01:04,335449.73,1,Withdrawal,Self,India,Settled,Mobile App
+TXN098DC66B,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-30 17:03:46,3706268.54,1,Wire,Vertex Clearing,India,Settled,Wire Transfer
+TXNEBAB8AE5,CUST008,Karan Johar,Low,ACC1016,Checking,2026-05-30 17:31:06,15074.71,1,Transfer,Tehran General Commerce,Australia,Settled,Mobile App
+TXNDC68F542,CUST005,Amit Verma,Low,ACC1010,Checking,2026-05-30 21:01:32,84619.4,1,Withdrawal,Self,India,Settled,Mobile App
+TXNA0A35CEF,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-05-30 22:08:13,42963.83,1,Wire,Nexus Logistics,Australia,Settled,Wire Transfer
+TXNF7587ED7,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-31 00:29:24,90089.2,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB621DF29,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-05-31 02:18:41,3484673.92,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXN47241258,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-05-31 02:55:30,886137.48,1,Deposit,Self,India,Settled,Mobile App
+TXN74E2ED16,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-31 04:23:00,43489.76,1,Transfer,Vertex Clearing,Japan,Settled,Mobile App
+TXNE4A92AF3,CUST001,Priya Patel,Low,ACC1003,Checking,2026-05-31 07:41:56,25867.28,1,Transfer,Pyongyang Export,Canada,Declined,Mobile App
+TXN2C5F206A,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-05-31 10:40:42,428559.97,1,Wire,Nexus Logistics,Switzerland,Settled,Wire Transfer
+TXNLW999,CUST010,Amrita Sen,High,ACC1020,Checking,2026-05-31 11:00:05,12500000.0,1,Wire,Syrian Trust Logistics,Syria,Settled,Wire Transfer
+TXNA8C92BAF,CUST008,Karan Johar,Low,ACC1015,Business,2026-05-31 11:42:57,3382740.02,1,Wire,M. K. Holdings,Singapore,Pending,Wire Transfer
+TXN45558C92,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-31 12:09:24,758481.78,1,Transfer,Tehran General Commerce,United Kingdom,Settled,Mobile App
+TXN5DD7BC8C,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-05-31 12:50:18,69766.4,1,Deposit,Self,India,Settled,Mobile App
+TXNC1D67F63,CUST005,Amit Verma,Low,ACC1011,Checking,2026-05-31 14:33:20,1438990.72,1,Wire,S.A. Trade Corp,Switzerland,Settled,Wire Transfer
+TXNB808D1D0,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-05-31 14:39:43,218813.35,1,Withdrawal,Self,India,Settled,Mobile App
+TXN0667FE5C,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-31 15:12:24,31612.13,1,Transfer,Sana Wires,Switzerland,Settled,Mobile App
+TXN6F875A74,CUST010,Amrita Sen,High,ACC1021,Savings,2026-05-31 15:28:59,3081.49,1,Withdrawal,Self,India,Settled,ATM
+TXN3D18BEC5,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-05-31 15:51:55,751267.3,1,Deposit,Self,India,Settled,Online Banking
+TXN3404770C,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-05-31 20:39:02,86518.33,1,Transfer,Capital Horizons,Japan,Settled,Mobile App
+TXND86EE6F7,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-05-31 20:40:08,487738.82,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB57FD62F,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-01 00:52:53,2628702.29,1,Wire,Global Trading Ltd,United Kingdom,Settled,Wire Transfer
+TXNCE561022,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-01 02:34:53,42540.26,1,Transfer,Vertex Clearing,Myanmar,Settled,Mobile App
+TXN515DF21B,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-01 03:23:16,244069.81,1,Transfer,Pyongyang Export,UAE,Settled,Mobile App
+TXN5084E3DC,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-01 04:00:40,77982.53,1,Transfer,Tehran General Commerce,United Kingdom,Settled,Mobile App
+TXND732D14E,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-01 05:18:06,49675.58,1,Deposit,Self,India,Declined,Online Banking
+TXNDF1BE7F7,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-01 06:22:02,23305.47,1,Transfer,Tehran General Commerce,Germany,Settled,Online Banking
+TXN420E17FA,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-01 12:53:59,1088553.43,1,Wire,M. K. Holdings,United Kingdom,Settled,Wire Transfer
+TXN08890E60,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-01 13:27:34,190479.14,1,Transfer,Sana Wires,South Sudan,Settled,Online Banking
+TXNE27469BD,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-01 13:54:52,121333.59,1,Transfer,M. K. Holdings,United Kingdom,Settled,Online Banking
+TXNF24064C1,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-01 15:14:04,1596.18,1,Transfer,Direct Express,Singapore,Settled,Mobile App
+TXN97B2D1A7,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-01 15:42:54,167155.36,1,Transfer,Pyongyang Export,United States,Settled,Mobile App
+TXNDF58E03C,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-01 16:37:37,87289.82,1,Withdrawal,Self,India,Settled,Online Banking
+TXN202D5877,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-01 19:09:57,158645.44,1,Deposit,Self,India,Settled,Mobile App
+TXNB5BA32EF,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-01 22:06:00,73518.25,1,Withdrawal,Self,India,Settled,Online Banking
+TXN244ED694,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-02 00:03:53,12452.57,1,Deposit,Self,India,Settled,Online Banking
+TXNA70AAAB0,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-02 00:42:36,1824688.91,1,Wire,Pyongyang Export,United Kingdom,Settled,Wire Transfer
+TXNBEFA31DC,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-02 02:42:09,8529.03,1,Deposit,Self,India,Settled,Online Banking
+TXNCDA24BEC,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-02 03:54:40,317933.57,1,Withdrawal,Self,India,Settled,Mobile App
+TXN61D06A03,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-02 06:08:00,2740147.87,1,Wire,Pyongyang Export,United Kingdom,Settled,Wire Transfer
+TXNFAF742DD,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-02 07:35:35,334953.43,1,Wire,Nexus Logistics,Switzerland,Settled,Wire Transfer
+TXNCF06E0D0,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-02 09:41:08,2247373.47,1,Withdrawal,Self,India,Settled,Mobile App
+TXN954D2C58,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-02 10:13:15,123884.54,1,Withdrawal,Self,India,Settled,Mobile App
+TXND7FAEF16,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-02 10:28:13,1740705.4,1,Wire,Nexus Logistics,United Kingdom,Settled,Wire Transfer
+TXN3A94B35F,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-02 11:34:26,67549.79,1,Deposit,Self,India,Settled,Mobile App
+TXNDF74244C,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-02 14:00:19,133477.67,1,Withdrawal,Self,India,Settled,Mobile App
+TXN4BD0FF76,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-02 14:28:47,1157887.74,1,Transfer,Damascus Trading,UAE,Settled,Mobile App
+TXNCAED11D5,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-02 15:06:47,1199679.01,1,Wire,Capital Horizons,United States,Declined,Wire Transfer
+TXN97615BE0,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-02 17:05:27,116879.61,1,Deposit,Self,India,Settled,Online Banking
+TXNF7FDF5D4,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-02 17:48:49,2107176.85,1,Wire,Nexus Logistics,Singapore,Settled,Wire Transfer
+TXN9ECBDBC5,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-03 03:39:58,122717.23,1,Withdrawal,Self,India,Settled,Mobile App
+TXN71E7C89E,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-03 06:11:11,1095451.03,1,Transfer,Global Trading Ltd,Japan,Declined,Mobile App
+TXN3716AF9D,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-03 07:23:02,183219.19,1,Wire,S.A. Trade Corp,India,Settled,Wire Transfer
+TXN2980998B,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-03 07:58:52,351689.6,1,Deposit,Self,India,Settled,Online Banking
+TXNC540867A,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-03 08:44:28,61211.89,1,Deposit,Self,India,Settled,Online Banking
+TXN631D81BC,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-03 10:21:53,2681266.25,1,Wire,Tehran General Commerce,Germany,Settled,Wire Transfer
+TXN9521703E,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-03 12:13:49,190716.97,1,Transfer,Nexus Logistics,Japan,Settled,Mobile App
+TXN32537C38,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-03 12:42:18,20810.18,1,Transfer,Damascus Trading,United States,Settled,Online Banking
+TXNEBD3A639,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-03 13:11:44,333991.36,1,Withdrawal,Self,India,Settled,Mobile App
+TXN8164BCE0,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-03 15:13:45,188512.85,1,Deposit,Self,India,Settled,Mobile App
+TXN4A187C41,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-03 15:38:28,1330184.87,1,Transfer,Tehran General Commerce,Japan,Settled,Online Banking
+TXNA1705B34,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-03 19:39:44,717602.42,1,Withdrawal,Self,India,Settled,Online Banking
+TXN252656F7,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-03 21:25:17,2971.79,1,Withdrawal,Self,India,Settled,ATM
+TXN9C9C1CD3,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-04 00:54:44,7105.79,1,Withdrawal,Self,India,Settled,ATM
+TXN40356B4A,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-04 02:47:58,825327.55,1,Transfer,Global Trading Ltd,United States,Settled,Mobile App
+TXNDD7706E4,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-04 03:16:43,130013.31,1,Transfer,Global Trading Ltd,Switzerland,Settled,Online Banking
+TXNCB2460F5,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-04 03:35:45,1093445.38,1,Withdrawal,Self,India,Settled,Online Banking
+TXND1FE46F2,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-04 05:44:31,510558.92,1,Wire,Nexus Logistics,UAE,Settled,Wire Transfer
+TXNDE1D7B88,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-04 09:42:51,340577.11,1,Deposit,Self,India,Settled,Mobile App
+TXNCBBF3631,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-04 10:02:05,203814.81,1,Withdrawal,Self,India,Settled,Mobile App
+TXNE029703A,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-04 10:10:27,1547251.72,1,Wire,M. K. Holdings,Switzerland,Settled,Wire Transfer
+TXN810BE972,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-04 12:09:25,1756.37,1,Withdrawal,Self,India,Settled,Branch
+TXN1FDA30E6,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-04 12:09:55,999553.61,1,Deposit,Self,India,Settled,Mobile App
+TXN1FBDE77B,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-04 13:42:09,37976.85,1,Transfer,S.A. Trade Corp,India,Settled,Online Banking
+TXN631A1C22,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-04 15:07:18,601382.53,1,Withdrawal,Self,India,Settled,Online Banking
+TXN84457BF3,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-04 16:36:40,281279.85,1,Withdrawal,Self,India,Settled,Online Banking
+TXN583D1BB2,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-04 21:52:20,216455.79,1,Transfer,Sana Wires,United Kingdom,Declined,Mobile App
+TXN81DEFAF3,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-04 23:21:49,608647.78,1,Withdrawal,Self,India,Settled,Online Banking
+TXN3C27D86E,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-05 00:37:00,229830.65,1,Withdrawal,Self,India,Settled,Mobile App
+TXN05430BB4,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-05 01:27:13,67646.19,1,Deposit,Self,India,Settled,Mobile App
+TXNE56FD390,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-05 02:40:41,83074.97,1,Withdrawal,Self,India,Settled,Mobile App
+TXN48316A01,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-05 02:41:17,140870.92,1,Transfer,Global Trading Ltd,Myanmar,Settled,Mobile App
+TXN73259F31,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-05 04:02:29,8937.61,1,Transfer,Tehran General Commerce,United States,Settled,Online Banking
+TXN174A9454,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-05 06:39:41,1780257.43,1,Wire,M. K. Holdings,Canada,Settled,Wire Transfer
+TXNF2B37955,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-05 07:47:55,10383.86,1,Withdrawal,Self,India,Settled,ATM
+TXN56FB7020,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-05 09:01:05,1768339.71,1,Wire,M. K. Holdings,Germany,Settled,Wire Transfer
+TXN9968CDF2,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-05 10:34:39,256860.54,1,Transfer,Nexus Logistics,Japan,Settled,Mobile App
+TXNBFC79649,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-05 13:02:31,218607.8,1,Transfer,Capital Horizons,Japan,Declined,Mobile App
+TXN8EC92101,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-05 15:58:17,256721.1,1,Deposit,Self,India,Settled,Online Banking
+TXN6E864203,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-05 16:21:58,401951.11,1,Wire,Capital Horizons,Singapore,Settled,Wire Transfer
+TXNA9E80A51,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-05 16:39:45,72105.88,1,Withdrawal,Self,India,Settled,Online Banking
+TXN0FAC6F56,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-05 16:47:21,45560.86,1,Deposit,Self,India,Settled,Online Banking
+TXN6EEFD343,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-05 19:09:56,86302.73,1,Deposit,Self,India,Settled,Mobile App
+TXN49978D73,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-06 03:00:35,66185.49,1,Wire,Nexus Logistics,Germany,Settled,Wire Transfer
+TXNE6218EB9,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-06 03:13:15,117202.12,1,Deposit,Self,India,Settled,Mobile App
+TXN8C529D22,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-06 07:15:23,832906.56,1,Withdrawal,Self,India,Settled,Online Banking
+TXN3010E428,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-06 07:56:17,407927.55,1,Withdrawal,Self,India,Settled,Mobile App
+TXN11E85746,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-06 15:26:54,394232.17,1,Transfer,Global Trading Ltd,UAE,Settled,Online Banking
+TXN4BF69F4E,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-06 16:34:58,114164.16,1,Deposit,Self,India,Settled,Online Banking
+TXNC66B036E,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-06 17:10:32,28692.78,1,Wire,Hassan & Co Financials,UAE,Settled,Wire Transfer
+TXN79372561,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-06 21:20:35,25155.12,1,Deposit,Self,India,Settled,Online Banking
+TXNE38C6887,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-06 21:41:01,1940457.34,1,Wire,Pyongyang Export,Switzerland,Settled,Wire Transfer
+TXN342FE0CC,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-06 21:51:34,136801.13,1,Deposit,Self,India,Pending,Mobile App
+TXN1EA88591,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-06 22:57:02,49379.82,1,Withdrawal,Self,India,Settled,Online Banking
+TXNA517ED4F,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-06 23:27:17,126857.56,1,Withdrawal,Self,India,Settled,Online Banking
+TXN2934E686,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-07 00:51:01,275847.33,1,Wire,M. K. Holdings,UAE,Settled,Wire Transfer
+TXNE47594FF,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-07 02:14:35,781341.51,1,Wire,Nexus Logistics,Singapore,Settled,Wire Transfer
+TXN2AC10835,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-07 02:34:28,452105.8,1,Transfer,Global Trading Ltd,Australia,Settled,Mobile App
+TXN0E5653BA,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-07 04:48:47,463738.63,1,Withdrawal,Self,India,Settled,Online Banking
+TXNAD042DA6,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-07 04:55:17,1027273.07,1,Wire,S.A. Trade Corp,Switzerland,Settled,Wire Transfer
+TXN8F2FDF64,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-07 10:28:23,581255.24,1,Transfer,Capital Horizons,Germany,Settled,Mobile App
+TXNDC356AAA,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-07 12:46:11,1807545.4,1,Wire,Vertex Clearing,Switzerland,Settled,Wire Transfer
+TXN20CC6160,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-07 13:32:57,6931697.94,1,Wire,M. K. Holdings,Iran,Settled,Wire Transfer
+TXN239DAB3C,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-07 18:50:02,149910.59,1,Wire,S.A. Trade Corp,Germany,Settled,Wire Transfer
+TXN8E9DF2B1,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-07 21:10:29,174422.11,1,Wire,Nexus Logistics,Australia,Settled,Wire Transfer
+TXN3D86346A,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-07 22:00:30,14376.94,1,Withdrawal,Self,India,Settled,ATM
+TXNCF66E8DC,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-07 22:06:12,347934.36,1,Transfer,Sana Wires,United Kingdom,Settled,Online Banking
+TXN3478B44D,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-08 02:03:57,77564.4,1,Withdrawal,Self,India,Settled,Online Banking
+TXNDBB454F8,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-08 05:19:13,229905.4,1,Withdrawal,Self,India,Settled,Mobile App
+TXN48A9486B,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-08 05:56:46,2099377.5,1,Wire,S.A. Trade Corp,Singapore,Settled,Wire Transfer
+TXNE2BAEA3A,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-08 07:59:47,202043.92,1,Withdrawal,Self,India,Settled,Mobile App
+TXN58A3C14A,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-08 11:09:32,11907.43,1,Deposit,Self,India,Settled,Online Banking
+TXN87E44DB9,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-08 11:21:19,61206.02,1,Transfer,Tehran General Commerce,United States,Settled,Online Banking
+TXN722F9CA1,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-08 11:39:13,506940.72,1,Deposit,Self,India,Settled,Mobile App
+TXN3E59A65A,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-08 11:40:58,784305.82,1,Withdrawal,Self,India,Settled,Online Banking
+TXNA25E301C,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-08 11:48:25,222666.35,1,Withdrawal,Self,India,Settled,Online Banking
+TXN38CC304D,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-08 15:13:53,230645.79,1,Deposit,Self,India,Settled,Mobile App
+TXNCB1A7A42,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-08 15:18:42,5235365.18,1,Withdrawal,Self,India,Settled,Mobile App
+TXN457FD2F2,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-08 16:25:28,244022.58,1,Withdrawal,Self,India,Pending,Online Banking
+TXN06EACCA3,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-08 17:44:32,15082.22,1,Withdrawal,Self,India,Settled,Branch
+TXN83EF7ED8,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-08 18:09:11,77056.29,1,Transfer,Global Trading Ltd,United States,Settled,Mobile App
+TXNFC33A658,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-08 21:24:42,1677741.66,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXNCB201F13,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-08 22:53:52,55676.2,1,Wire,M. K. Holdings,United States,Settled,Wire Transfer
+TXN3B2A5AAE,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-09 02:14:07,847056.24,1,Wire,Direct Express,Japan,Settled,Wire Transfer
+TXNBB9553B0,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-09 03:47:05,3593428.5,1,Wire,Pyongyang Export,Singapore,Settled,Wire Transfer
+TXNAE5F2524,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-09 05:35:29,359404.24,1,Withdrawal,Self,India,Settled,Online Banking
+TXN0B1D4976,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-09 06:53:07,2240396.56,1,Withdrawal,Self,India,Settled,Mobile App
+TXN0D648840,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-09 07:41:00,66405.38,1,Deposit,Self,India,Settled,Online Banking
+TXN4CF8EECD,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-09 08:07:12,17315.83,1,Transfer,S.A. Trade Corp,India,Settled,Mobile App
+TXNAAC852A2,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-09 09:22:18,922656.7,1,Wire,Capital Horizons,India,Settled,Wire Transfer
+TXN464D3376,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-09 11:02:42,5188550.27,1,Wire,Tehran General Commerce,Germany,Settled,Wire Transfer
+TXN9B525CC0,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-09 11:38:41,215224.02,1,Deposit,Self,India,Settled,Mobile App
+TXN24FEC305,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-09 12:30:58,427074.5,1,Wire,Sana Wires,Japan,Settled,Wire Transfer
+TXN498CDEC7,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-09 13:13:14,226129.93,1,Transfer,Pyongyang Export,Canada,Settled,Online Banking
+TXND8377D65,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-09 15:48:30,2664495.88,1,Wire,Global Trading Ltd,Switzerland,Settled,Wire Transfer
+TXN7D8C65EE,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-09 23:19:18,29700.25,1,Deposit,Self,India,Settled,Mobile App
+TXN0AAF13B2,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-09 23:19:39,138153.21,1,Withdrawal,Self,India,Settled,Online Banking
+TXN927522B4,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-10 00:49:32,506855.81,1,Wire,S.A. Trade Corp,United Kingdom,Settled,Wire Transfer
+TXN2A00D147,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-10 01:52:47,301355.37,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXNCE7E2381,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-10 05:28:32,85356.61,1,Transfer,S.A. Trade Corp,UAE,Settled,Online Banking
+TXN775BFA93,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-10 06:10:18,32683.97,1,Deposit,Self,India,Settled,Online Banking
+TXN71FDC34C,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-10 07:59:08,93304.14,1,Transfer,Tehran General Commerce,Iran,Settled,Online Banking
+TXNC70C3E3A,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-10 11:00:58,12994.61,1,Transfer,Damascus Trading,Japan,Settled,Mobile App
+TXNC595D114,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-10 13:18:43,92614.83,1,Deposit,Self,India,Settled,Mobile App
+TXN038CA4D3,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-10 15:43:34,109157.77,1,Deposit,Self,India,Settled,Mobile App
+TXNEB3FC2E6,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-10 19:18:03,24374.84,1,Deposit,Self,India,Declined,Mobile App
+TXN44AA2F8F,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-10 20:15:08,166483.47,1,Transfer,Global Trading Ltd,Switzerland,Settled,Online Banking
+TXN06278ACE,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-10 21:07:37,475150.67,1,Withdrawal,Self,India,Settled,Online Banking
+TXN131084AE,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-10 21:54:05,69814.8,1,Deposit,Self,India,Settled,Online Banking
+TXNA51BC617,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-10 22:25:49,188164.56,1,Withdrawal,Self,India,Settled,Online Banking
+TXNAC86B716,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-10 22:49:18,232656.9,1,Transfer,Capital Horizons,Japan,Settled,Online Banking
+TXNBF4E17C3,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-10 23:02:42,505740.53,1,Transfer,Direct Express,UAE,Settled,Online Banking
+TXN23858B67,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-10 23:44:08,1247463.65,1,Transfer,Tehran General Commerce,UAE,Pending,Online Banking
+TXNFCF50A86,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-11 02:34:22,90291.97,1,Deposit,Self,India,Settled,Online Banking
+TXN5EC7216C,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-11 03:47:43,151046.76,1,Deposit,Self,India,Settled,Mobile App
+TXN3AE08985,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-11 08:20:35,2254.51,1,Deposit,Self,India,Settled,Mobile App
+TXNE4A321B3,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-11 10:44:14,36861.0,1,Transfer,M. K. Holdings,Switzerland,Settled,Online Banking
+TXNB30A5249,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-11 13:24:46,1158107.81,1,Wire,Nexus Logistics,Singapore,Settled,Wire Transfer
+TXNC0EC31ED,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-11 14:06:06,84558.47,1,Withdrawal,Self,India,Settled,Online Banking
+TXN11DD7397,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-11 17:09:49,75311.46,1,Withdrawal,Self,India,Settled,Mobile App
+TXNCE651D3F,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-11 22:24:13,2502469.32,1,Wire,Hassan & Co Financials,Japan,Settled,Wire Transfer
+TXNFA593FE7,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-11 23:53:46,1169.74,1,Deposit,Self,India,Settled,Mobile App
+TXNFE9512C5,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-12 01:04:32,315572.95,1,Transfer,Capital Horizons,Canada,Settled,Mobile App
+TXNA654848A,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-12 01:47:49,6957.34,1,Withdrawal,Self,India,Settled,Branch
+TXN0BEBD6DC,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-12 02:31:30,132673.84,1,Wire,Vertex Clearing,Japan,Settled,Wire Transfer
+TXN54E1C4E4,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-12 10:28:20,60313.63,1,Transfer,Global Trading Ltd,Switzerland,Settled,Online Banking
+TXN54643AE2,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-12 12:44:18,313698.48,1,Wire,S.A. Trade Corp,United Kingdom,Settled,Wire Transfer
+TXNC0719345,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-12 13:29:22,388209.65,1,Deposit,Self,India,Settled,Online Banking
+TXNF9253EAA,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-12 13:32:51,768437.27,1,Transfer,Tehran General Commerce,United States,Settled,Mobile App
+TXN280B13A9,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-12 14:28:46,2749977.83,1,Wire,Vertex Clearing,India,Settled,Wire Transfer
+TXN9D1EB027,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-12 18:16:33,184569.15,1,Withdrawal,Self,India,Settled,Online Banking
+TXN88F3E4C0,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-12 19:27:50,316975.64,1,Deposit,Self,India,Settled,Online Banking
+TXN72D2CA36,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-12 20:29:01,98812.07,1,Deposit,Self,India,Settled,Online Banking
+TXN1F6B67EF,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-12 22:03:49,142530.44,1,Deposit,Self,India,Settled,Online Banking
+TXNE8646CDC,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-12 23:21:16,257600.16,1,Wire,Sana Wires,United Kingdom,Settled,Wire Transfer
+TXN96F758B8,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-13 05:04:28,2521310.37,1,Wire,Direct Express,United Kingdom,Settled,Wire Transfer
+TXNC4FD5AED,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-13 05:19:59,1086985.69,1,Wire,Pyongyang Export,United States,Settled,Wire Transfer
+TXN37681910,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-13 09:17:48,523817.02,1,Withdrawal,Self,India,Settled,Mobile App
+TXN60D0BC94,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-13 11:31:28,3815.41,1,Transfer,S.A. Trade Corp,India,Settled,Mobile App
+TXNC76689D4,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-13 14:42:21,2955764.64,1,Withdrawal,Self,India,Settled,Mobile App
+TXNE2ACD60C,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-13 15:40:27,19321.63,1,Transfer,Sana Wires,India,Settled,Mobile App
+TXN24853FE9,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-13 16:43:30,66729.25,1,Transfer,Nexus Logistics,United States,Settled,Online Banking
+TXN25E51BA7,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-13 17:55:19,18809202.65,1,Transfer,Pyongyang Export,Sudan,Settled,Online Banking
+TXN749BF9A9,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-13 18:08:28,160210.18,1,Withdrawal,Self,India,Settled,Online Banking
+TXN829A13D7,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-13 18:48:16,692983.85,1,Withdrawal,Self,India,Pending,Online Banking
+TXNBA61D43A,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-13 19:19:23,32801.04,1,Deposit,Self,India,Settled,Online Banking
+TXNE692A060,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-13 22:36:44,883308.83,1,Transfer,Pyongyang Export,United Kingdom,Settled,Online Banking
+TXN8CDF2892,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-13 23:32:20,5132528.73,1,Wire,Hassan & Co Financials,United States,Settled,Wire Transfer
+TXNF83772D6,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-14 00:31:19,105021.81,1,Wire,Vertex Clearing,Japan,Settled,Wire Transfer
+TXN3F19CAC1,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-14 00:51:02,255266.32,1,Wire,M. K. Holdings,Germany,Settled,Wire Transfer
+TXNAE292DDA,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-14 08:33:41,41249.04,1,Transfer,Hassan & Co Financials,Canada,Pending,Online Banking
+TXN451A1A61,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-14 08:57:58,142561.48,1,Transfer,M. K. Holdings,United States,Settled,Mobile App
+TXNF5B63135,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-14 09:50:56,71410.74,1,Deposit,Self,India,Settled,Mobile App
+TXNCD4FDB85,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-14 11:02:16,416330.93,1,Wire,Global Trading Ltd,Switzerland,Settled,Wire Transfer
+TXNF9C93A83,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-14 14:40:10,314873.14,1,Transfer,S.A. Trade Corp,UAE,Settled,Mobile App
+TXN9BB5A180,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-14 20:40:00,237504.23,1,Deposit,Self,India,Settled,Online Banking
+TXNC3FBD0CC,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-14 22:52:10,1661474.73,1,Wire,Nexus Logistics,Germany,Settled,Wire Transfer
+TXNEA2780C1,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-15 00:50:21,271323.98,1,Deposit,Self,India,Settled,Online Banking
+TXND394A81A,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-15 02:21:36,442868.95,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB70A6588,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-15 02:36:00,2423477.04,1,Wire,Nexus Logistics,United Kingdom,Settled,Wire Transfer
+TXN04447A10,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-15 07:51:33,601796.13,1,Deposit,Self,India,Settled,Mobile App
+TXNDDAF7FDA,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-15 10:39:27,19129.23,1,Deposit,Self,India,Settled,Mobile App
+TXN9A5FAD19,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-15 17:22:40,1268528.58,1,Wire,Sana Wires,India,Settled,Wire Transfer
+TXNCA3922CF,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-15 18:21:12,321524.47,1,Wire,Tehran General Commerce,Germany,Settled,Wire Transfer
+TXN490A75A7,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-15 18:44:51,56425.31,1,Deposit,Self,India,Settled,Online Banking
+TXND304C6A7,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-15 19:42:48,833457.88,1,Withdrawal,Self,India,Settled,Mobile App
+TXN05CB93DD,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-15 20:46:24,207598.68,1,Transfer,Hassan & Co Financials,United States,Settled,Mobile App
+TXN99FE3CF0,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-16 00:40:58,546300.3,1,Deposit,Self,India,Settled,Online Banking
+TXNF32117F2,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-16 06:12:44,423359.87,1,Transfer,Sana Wires,UAE,Settled,Online Banking
+TXN93BD7F2F,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-16 09:09:56,103629.59,1,Deposit,Self,India,Settled,Mobile App
+TXNC63DCE39,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-16 09:15:54,499391.58,1,Wire,M. K. Holdings,India,Settled,Wire Transfer
+TXN913B4F60,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-16 11:17:37,1111100.46,1,Wire,M. K. Holdings,UAE,Settled,Wire Transfer
+TXN12BAFA83,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-16 12:26:54,93037.9,1,Withdrawal,Self,India,Settled,Mobile App
+TXN1D8F66EE,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-16 13:58:55,1316994.86,1,Wire,Damascus Trading,Germany,Settled,Wire Transfer
+TXNC01A5800,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-16 14:05:40,170559.52,1,Deposit,Self,India,Settled,Mobile App
+TXNC0CFAEB3,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-16 19:25:10,766536.79,1,Deposit,Self,India,Settled,Online Banking
+TXNDCB08FCD,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-16 20:08:09,1009258.56,1,Wire,Pyongyang Export,Singapore,Settled,Wire Transfer
+TXNF1550636,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-16 20:58:58,185160.02,1,Withdrawal,Self,India,Settled,Mobile App
+TXN5C042113,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-17 05:27:47,887743.37,1,Wire,Tehran General Commerce,Australia,Settled,Wire Transfer
+TXNF5A4D352,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-17 09:33:32,3053569.53,1,Wire,Nexus Logistics,Switzerland,Settled,Wire Transfer
+TXNE427B1A8,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-17 12:04:38,830687.32,1,Deposit,Self,India,Settled,Online Banking
+TXNC7D0CD5A,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-17 15:50:12,41221.59,1,Withdrawal,Self,India,Settled,Mobile App
+TXN3E8EC113,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-17 18:14:42,1673.98,1,Withdrawal,Self,India,Settled,Branch
+TXN29B995CE,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-17 21:51:01,442215.33,1,Deposit,Self,India,Settled,Mobile App
+TXN95F5C1AD,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-17 22:22:04,501958.08,1,Transfer,Hassan & Co Financials,India,Settled,Mobile App
+TXN707111E6,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-17 23:29:09,1044237.06,1,Transfer,Sana Wires,India,Settled,Online Banking
+TXN9EE53B4B,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-18 00:36:16,138396.28,1,Wire,Sana Wires,Switzerland,Settled,Wire Transfer
+TXN2793CD3B,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-18 00:53:14,1090492.9,1,Deposit,Self,India,Settled,Online Banking
+TXNA0904341,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-18 02:13:45,236025.84,1,Wire,Pyongyang Export,Germany,Settled,Wire Transfer
+TXN6BE1829C,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-18 02:57:17,9584.4,1,Deposit,Self,India,Settled,Online Banking
+TXN5A1222CA,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-18 03:05:44,678469.23,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXN1E4E0B40,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-18 04:13:28,330335.43,1,Deposit,Self,India,Settled,Online Banking
+TXNC13D558D,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-18 04:47:28,9064.49,1,Deposit,Self,India,Settled,Mobile App
+TXNF8EB62A8,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-18 07:06:06,2681.66,1,Withdrawal,Self,India,Settled,Branch
+TXNC59DB4F6,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-18 09:06:38,64299.49,1,Deposit,Self,India,Pending,Mobile App
+TXNC47C440D,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-18 09:32:27,893804.09,1,Transfer,Sana Wires,Australia,Settled,Online Banking
+TXN939985BA,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-18 17:22:39,292723.41,1,Wire,Hassan & Co Financials,Canada,Settled,Wire Transfer
+TXNA8FB0146,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-18 18:11:08,7436737.68,1,Wire,S.A. Trade Corp,Japan,Settled,Wire Transfer
+TXNF9367EE6,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-18 20:36:16,17656.66,1,Transfer,Hassan & Co Financials,United Kingdom,Settled,Mobile App
+TXN06DBB78D,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-18 21:23:56,257718.53,1,Wire,Hassan & Co Financials,United Kingdom,Settled,Wire Transfer
+TXNE7E25500,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-18 23:50:42,38044.43,1,Transfer,Vertex Clearing,India,Settled,Online Banking
+TXNE403BF10,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-19 00:23:21,83799.76,1,Transfer,Direct Express,Japan,Settled,Online Banking
+TXN44F574C4,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-19 00:50:50,39682.11,1,Withdrawal,Self,India,Settled,ATM
+TXNC3FB51A3,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-19 03:06:29,557584.98,1,Withdrawal,Self,India,Settled,Mobile App
+TXNC57CDA90,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-19 03:34:01,191199.44,1,Withdrawal,Self,India,Settled,Mobile App
+TXNDFFB3C6D,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-19 05:22:52,1641780.39,1,Transfer,Tehran General Commerce,Germany,Settled,Mobile App
+TXNC6C375AC,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-19 07:22:58,891337.7,1,Withdrawal,Self,India,Settled,Mobile App
+TXN4C528187,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-19 08:50:23,61738.48,1,Deposit,Self,India,Settled,Online Banking
+TXN52EA2958,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-19 10:02:23,2003593.84,1,Wire,Direct Express,United Kingdom,Settled,Wire Transfer
+TXN1F763632,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-19 10:25:28,152899.01,1,Deposit,Self,India,Settled,Mobile App
+TXN20EA2001,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-19 13:03:49,16542.84,1,Deposit,Self,India,Settled,Online Banking
+TXNFD3047FC,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-19 14:36:50,248395.87,1,Deposit,Self,India,Declined,Mobile App
+TXN0B21404C,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-20 09:20:27,1454115.3,1,Deposit,Self,India,Settled,Mobile App
+TXN716D4FB0,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-20 09:27:22,1521477.19,1,Transfer,Nexus Logistics,Japan,Pending,Online Banking
+TXNEEBE0BB7,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-20 09:42:20,250481.53,1,Wire,Global Trading Ltd,Japan,Settled,Wire Transfer
+TXN93899A61,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-20 10:59:25,14209172.12,1,Wire,Capital Horizons,Singapore,Declined,Wire Transfer
+TXNCCF6F6E6,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-20 11:17:29,3349.62,1,Withdrawal,Self,India,Settled,Branch
+TXN9DCE0F1B,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-20 12:04:26,1382485.42,1,Withdrawal,Self,India,Settled,Online Banking
+TXN26911326,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-20 13:11:16,20506.8,1,Deposit,Self,India,Settled,Online Banking
+TXN3E3E4A6E,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-20 16:49:34,1112898.58,1,Wire,Hassan & Co Financials,Japan,Settled,Wire Transfer
+TXN456675E3,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-20 17:26:21,272960.21,1,Transfer,Direct Express,India,Settled,Online Banking
+TXN12E6E082,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-20 17:30:53,1395195.5,1,Wire,Hassan & Co Financials,Canada,Settled,Wire Transfer
+TXN6C6D0B5E,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-20 18:34:42,92948.18,1,Transfer,Sana Wires,United States,Settled,Mobile App
+TXN6D80294A,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-20 19:25:39,152547.22,1,Deposit,Self,India,Settled,Mobile App
+TXNF262ADDD,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-20 22:19:14,173664.43,1,Deposit,Self,India,Pending,Online Banking
+TXNA480F9E8,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-20 22:30:41,275359.63,1,Withdrawal,Self,India,Settled,Online Banking
+TXN8D32D74E,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-20 23:25:34,674973.46,1,Wire,M. K. Holdings,Germany,Settled,Wire Transfer
+TXN44CED79F,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-21 00:04:54,1196312.43,1,Wire,Vertex Clearing,Switzerland,Pending,Wire Transfer
+TXNEA992201,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-21 03:44:03,116712.86,1,Deposit,Self,India,Declined,Mobile App
+TXNE9623A41,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-21 04:46:01,120416.13,1,Deposit,Self,India,Settled,Online Banking
+TXNE4609F2D,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-21 04:59:29,504290.3,1,Wire,Damascus Trading,Canada,Settled,Wire Transfer
+TXN1C6215BA,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-21 05:47:47,63487.65,1,Withdrawal,Self,India,Settled,Mobile App
+TXN06AC2E33,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-21 08:57:21,203136.29,1,Wire,Nexus Logistics,Singapore,Settled,Wire Transfer
+TXN801B6DFA,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-21 09:17:58,254775.56,1,Wire,Nexus Logistics,India,Declined,Wire Transfer
+TXNE8261648,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-21 14:13:54,610459.5,1,Transfer,Tehran General Commerce,UAE,Settled,Online Banking
+TXN0941ABEC,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-21 15:26:08,129679.56,1,Deposit,Self,India,Settled,Online Banking
+TXN96981C3B,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-21 16:37:06,3703074.9,1,Wire,S.A. Trade Corp,United States,Settled,Wire Transfer
+TXNB3940A61,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-21 17:13:56,113559.92,1,Withdrawal,Self,India,Settled,Online Banking
+TXNB07D3E2B,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-21 19:25:38,52590.52,1,Withdrawal,Self,India,Settled,Online Banking
+TXNFD0129D7,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-21 20:18:51,10697.63,1,Deposit,Self,India,Pending,Online Banking
+TXN78727339,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-21 20:57:32,138109.33,1,Transfer,Sana Wires,Canada,Settled,Online Banking
+TXN083FD1A6,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-21 22:50:21,3079.43,1,Transfer,Pyongyang Export,UAE,Settled,Mobile App
+TXN1E9F5420,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-22 02:48:31,624477.14,1,Transfer,M. K. Holdings,Myanmar,Pending,Online Banking
+TXN6D0A7ABF,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-22 05:00:02,1811491.05,1,Wire,Damascus Trading,Myanmar,Settled,Wire Transfer
+TXN2026A9BB,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-22 05:13:17,1321283.85,1,Withdrawal,Self,India,Settled,Mobile App
+TXN1A513DD5,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-22 05:25:21,107106.74,1,Wire,Capital Horizons,India,Settled,Wire Transfer
+TXNB07C2D6D,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-22 06:02:19,143924.25,1,Deposit,Self,India,Settled,Mobile App
+TXN220D0598,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-22 07:32:07,4190290.27,1,Wire,Capital Horizons,Australia,Settled,Wire Transfer
+TXN234557D4,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-22 10:01:07,2422470.86,1,Wire,Pyongyang Export,Australia,Settled,Wire Transfer
+TXNFD654486,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-22 11:35:37,2563.89,1,Deposit,Self,India,Settled,Mobile App
+TXNDF1D8D3D,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-22 12:10:14,114399.09,1,Withdrawal,Self,India,Settled,Mobile App
+TXN54B9739B,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-22 12:35:38,3541.25,1,Withdrawal,Self,India,Settled,ATM
+TXN4BD420A1,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-22 13:08:23,643294.01,1,Deposit,Self,India,Settled,Mobile App
+TXN13C5B5A5,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-22 16:22:43,12757.32,1,Withdrawal,Self,India,Settled,ATM
+TXN958BEB1F,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-22 17:08:28,99967.94,1,Withdrawal,Self,India,Settled,Online Banking
+TXN601F8B9E,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-22 17:12:34,162214.93,1,Transfer,S.A. Trade Corp,Switzerland,Settled,Mobile App
+TXNA2458593,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-22 19:25:03,2246231.25,1,Wire,Global Trading Ltd,UAE,Settled,Wire Transfer
+TXNE3D7F0CB,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-22 20:03:54,53018.68,1,Deposit,Self,India,Settled,Online Banking
+TXNDD9A79CD,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-23 01:11:26,737353.31,1,Wire,Direct Express,United States,Settled,Wire Transfer
+TXN1FD218AA,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-23 01:24:44,416431.3,1,Deposit,Self,India,Settled,Mobile App
+TXNC4FFE2FC,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-23 02:11:20,189972.18,1,Wire,Capital Horizons,Canada,Settled,Wire Transfer
+TXNE623C7B5,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-23 02:36:24,1800260.43,1,Withdrawal,Self,India,Settled,Mobile App
+TXNE1BC3C58,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-23 03:08:46,21433.67,1,Withdrawal,Self,India,Settled,Branch
+TXN9423443B,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-23 06:29:03,816661.2,1,Wire,M. K. Holdings,United Kingdom,Settled,Wire Transfer
+TXN5877B2A7,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-23 10:40:05,388593.15,1,Deposit,Self,India,Settled,Mobile App
+TXN95C12357,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-23 11:19:18,1514060.67,1,Deposit,Self,India,Settled,Online Banking
+TXND2F40ED9,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-23 12:48:23,59092.45,1,Withdrawal,Self,India,Settled,Mobile App
+TXN6443009D,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-23 17:28:31,54294.14,1,Transfer,Damascus Trading,Germany,Settled,Mobile App
+TXN723DBAC4,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-23 17:51:17,782015.67,1,Transfer,Global Trading Ltd,Australia,Settled,Mobile App
+TXNFF91C35E,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-23 18:15:48,1400924.84,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXNAA857BFA,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-23 19:35:03,96630.91,1,Transfer,Tehran General Commerce,Switzerland,Settled,Online Banking
+TXNE7699AE3,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-23 20:20:17,525481.14,1,Wire,Pyongyang Export,Australia,Settled,Wire Transfer
+TXN75033D2D,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-23 23:40:41,2225694.83,1,Withdrawal,Self,India,Settled,Mobile App
+TXN09431FEB,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-24 01:01:51,33888.86,1,Wire,Capital Horizons,Singapore,Settled,Wire Transfer
+TXN6E61DF2B,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-24 01:16:19,190639.23,1,Withdrawal,Self,India,Settled,Online Banking
+TXN347CA763,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-24 05:10:40,81806.52,1,Wire,Vertex Clearing,Switzerland,Settled,Wire Transfer
+TXN580A83AC,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-24 07:04:29,156785.02,1,Withdrawal,Self,India,Settled,Online Banking
+TXN499F3316,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-24 10:31:41,54791.56,1,Deposit,Self,India,Settled,Mobile App
+TXN0FF097C3,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-24 10:55:44,243070.92,1,Wire,Hassan & Co Financials,Somalia,Settled,Wire Transfer
+TXND59C36E7,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-24 14:39:31,2729918.35,1,Wire,Pyongyang Export,Singapore,Settled,Wire Transfer
+TXN47FD92FB,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-24 15:27:25,202568.96,1,Deposit,Self,India,Settled,Online Banking
+TXN2B37E61B,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-24 16:09:29,16542.79,1,Transfer,Tehran General Commerce,Singapore,Settled,Online Banking
+TXNE46D1EA7,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-24 17:14:25,1615010.74,1,Wire,Vertex Clearing,United States,Settled,Wire Transfer
+TXN756960BF,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-24 19:46:53,113877.27,1,Transfer,Direct Express,India,Settled,Mobile App
+TXNFD263A8B,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-24 20:52:46,175430.24,1,Transfer,Sana Wires,India,Settled,Online Banking
+TXNA691AE1D,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-24 22:07:50,66207.65,1,Withdrawal,Self,India,Settled,Mobile App
+TXN246CEE55,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-24 22:41:17,197494.35,1,Transfer,Hassan & Co Financials,Switzerland,Declined,Online Banking
+TXN24CCC2C6,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-25 00:26:25,948135.97,1,Transfer,Vertex Clearing,United States,Settled,Online Banking
+TXN3805F6D1,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-25 04:03:27,624376.32,1,Withdrawal,Self,India,Settled,Mobile App
+TXN70ACD547,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-25 04:18:21,23414.01,1,Withdrawal,Self,India,Settled,ATM
+TXN5BDDA7C4,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-25 04:28:20,2526643.2,1,Wire,Global Trading Ltd,UAE,Settled,Wire Transfer
+TXN5FF36762,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-25 06:13:45,82987.1,1,Deposit,Self,India,Settled,Online Banking
+TXNAF01B361,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-25 07:03:07,6785.34,1,Withdrawal,Self,India,Pending,ATM
+TXN30CE91B9,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-25 08:39:48,474958.31,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB2118D4C,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-25 08:41:30,61605.74,1,Wire,Global Trading Ltd,Australia,Settled,Wire Transfer
+TXNEB1E193D,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-25 11:13:05,1150473.01,1,Wire,Global Trading Ltd,Australia,Settled,Wire Transfer
+TXNE265212A,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-25 12:42:42,2804134.82,1,Wire,Global Trading Ltd,Germany,Declined,Wire Transfer
+TXNDDD568D9,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-25 13:18:05,71843.13,1,Withdrawal,Self,India,Settled,Online Banking
+TXN2D3E31BC,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-25 13:25:53,151936.85,1,Withdrawal,Self,India,Settled,Online Banking
+TXNCE37AF5A,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-25 13:50:14,3143995.32,1,Wire,Nexus Logistics,South Sudan,Settled,Wire Transfer
+TXN8BE01743,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-25 13:50:39,16316.95,1,Transfer,Global Trading Ltd,Germany,Settled,Mobile App
+TXN77FA0E00,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-25 14:07:06,182372.68,1,Transfer,Hassan & Co Financials,Iran,Settled,Mobile App
+TXNE295A1B3,CUST008,Karan Johar,Low,ACC1016,Checking,2026-06-25 18:35:26,2661610.99,1,Wire,Vertex Clearing,UAE,Settled,Wire Transfer
+TXNA0857F9A,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-25 19:43:39,87422.87,1,Transfer,Tehran General Commerce,UAE,Settled,Online Banking
+TXN711ECEF3,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-26 02:03:34,5247130.56,1,Wire,Damascus Trading,Singapore,Settled,Wire Transfer
+TXN08DD927C,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-26 02:24:00,74909.59,1,Deposit,Self,India,Settled,Online Banking
+TXN3324FB85,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-26 04:39:42,1642790.56,1,Wire,Pyongyang Export,Japan,Settled,Wire Transfer
+TXNCA5416B0,CUST010,Amrita Sen,High,ACC1020,Checking,2026-06-26 05:33:38,285165.65,1,Withdrawal,Self,India,Settled,Online Banking
+TXN6DA2583A,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-26 10:29:50,11053.86,1,Withdrawal,Self,India,Settled,ATM
+TXNF64F5AB3,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-26 11:58:31,525736.27,1,Withdrawal,Self,India,Settled,Online Banking
+TXNFACFDF46,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-26 14:54:32,49196.77,1,Withdrawal,Self,India,Settled,Mobile App
+TXN58996160,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-26 15:59:53,521327.78,1,Wire,Direct Express,United States,Settled,Wire Transfer
+TXNAACDD430,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-26 19:47:46,1272718.85,1,Deposit,Self,India,Settled,Mobile App
+TXN22BF7BDD,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-26 20:05:42,78052.21,1,Deposit,Self,India,Settled,Mobile App
+TXN1B3DF9CC,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-26 22:29:42,21000.89,1,Deposit,Self,India,Settled,Mobile App
+TXN9B900FEC,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-26 23:42:08,54089.1,1,Transfer,S.A. Trade Corp,Japan,Settled,Mobile App
+TXN10F2832C,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-27 00:39:57,271761.63,1,Wire,Tehran General Commerce,Singapore,Settled,Wire Transfer
+TXN34A12000,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-27 01:17:57,869311.88,1,Wire,M. K. Holdings,UAE,Settled,Wire Transfer
+TXNA929FC7C,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-27 01:28:14,36730.08,1,Transfer,Pyongyang Export,Sudan,Settled,Mobile App
+TXN9BD69D48,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-27 02:57:15,768619.46,1,Withdrawal,Self,India,Settled,Online Banking
+TXN5BAF2598,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-27 04:51:42,258493.58,1,Wire,M. K. Holdings,United Kingdom,Settled,Wire Transfer
+TXN6F01ADC4,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-27 05:31:19,1577408.66,1,Withdrawal,Self,India,Settled,Online Banking
+TXN486D7ED9,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-27 15:10:19,118700.01,1,Transfer,M. K. Holdings,Germany,Pending,Mobile App
+TXN28E57EA1,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-27 15:41:51,1424264.6,1,Wire,Capital Horizons,Canada,Settled,Wire Transfer
+TXN60E61613,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-27 16:28:15,109779.93,1,Transfer,S.A. Trade Corp,United Kingdom,Settled,Mobile App
+TXN23DA67CB,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-27 17:02:22,281602.64,1,Withdrawal,Self,India,Settled,Online Banking
+TXN6489124C,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-27 19:49:10,27080.2,1,Deposit,Self,India,Settled,Mobile App
+TXN2D0DC58F,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-27 20:59:39,561097.53,1,Withdrawal,Self,India,Settled,Mobile App
+TXNCFB8BC96,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-27 21:56:02,73857.58,1,Wire,M. K. Holdings,United States,Settled,Wire Transfer
+TXN032010FE,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-27 22:11:03,1329105.0,1,Deposit,Self,India,Settled,Online Banking
+TXN0A83D337,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-27 22:38:14,31643.05,1,Transfer,S.A. Trade Corp,Australia,Settled,Online Banking
+TXN4F39A17E,CUST000,Rohan Sharma,Low,ACC1001,Checking,2026-06-27 22:41:10,124870.73,1,Wire,Pyongyang Export,United States,Pending,Wire Transfer
+TXN8D35C2F1,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-28 01:06:52,198561.61,1,Withdrawal,Self,India,Settled,Mobile App
+TXN7552420B,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-28 01:12:12,236954.22,1,Wire,Global Trading Ltd,Australia,Settled,Wire Transfer
+TXNFCEFDBAC,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-28 01:41:15,2082438.89,1,Transfer,Global Trading Ltd,India,Settled,Mobile App
+TXN72D135B1,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-28 06:23:16,320611.04,1,Deposit,Self,India,Settled,Mobile App
+TXN287383ED,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-28 08:58:28,307796.52,1,Withdrawal,Self,India,Settled,Mobile App
+TXN21FE5A9D,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-28 10:25:24,221950.35,1,Transfer,S.A. Trade Corp,Singapore,Settled,Mobile App
+TXN0117BF0F,CUST011,Ravi Shastri,Low,ACC1024,Checking,2026-06-28 11:58:40,60654.27,1,Transfer,Tehran General Commerce,Canada,Settled,Online Banking
+TXN9575AF4C,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-28 15:03:10,46529.48,1,Transfer,Tehran General Commerce,India,Settled,Mobile App
+TXN8E55E21F,CUST003,Aarav Mehta,Low,ACC1006,Business,2026-06-28 15:48:15,1021716.46,1,Transfer,Capital Horizons,UAE,Settled,Online Banking
+TXN06147434,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-28 16:35:22,66743.5,1,Withdrawal,Self,India,Settled,Mobile App
+TXN6A438D20,CUST009,Anjali Gupta,Low,ACC1017,Business,2026-06-28 16:51:06,3122300.27,1,Wire,Global Trading Ltd,Canada,Settled,Wire Transfer
+TXN53C5E99E,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-28 20:53:58,637111.47,1,Transfer,M. K. Holdings,Australia,Settled,Online Banking
+TXN0FC4159E,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-06-28 22:27:47,197732.32,1,Deposit,Self,India,Settled,Online Banking
+TXN2A1085C3,CUST009,Anjali Gupta,Low,ACC1019,Business,2026-06-28 23:03:28,264656.89,1,Transfer,Nexus Logistics,Japan,Settled,Online Banking
+TXN60B0B89E,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-28 23:32:19,1513848.76,1,Transfer,S.A. Trade Corp,Japan,Settled,Mobile App
+TXN0FE908E8,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-29 00:37:39,58280.27,1,Transfer,Damascus Trading,Singapore,Settled,Mobile App
+TXN252623C6,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-06-29 04:18:19,212918.99,1,Withdrawal,Self,India,Settled,Mobile App
+TXNA239C121,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-29 07:35:01,512027.31,1,Wire,Pyongyang Export,UAE,Settled,Wire Transfer
+TXN45467713,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-29 09:01:14,531793.33,1,Transfer,Damascus Trading,Germany,Settled,Online Banking
+TXN88E6097C,CUST008,Karan Johar,Low,ACC1015,Business,2026-06-29 10:28:38,600733.13,1,Withdrawal,Self,India,Settled,Mobile App
+TXN94038D15,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-29 13:49:23,3236393.17,1,Wire,Tehran General Commerce,India,Settled,Wire Transfer
+TXNF793AD14,CUST011,Ravi Shastri,Low,ACC1023,Checking,2026-06-29 13:54:59,72513.75,1,Withdrawal,Self,India,Settled,Online Banking
+TXNB81020C4,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-29 14:31:20,117259.1,1,Deposit,Self,India,Settled,Online Banking
+TXND79D235C,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-29 16:23:17,163075.72,1,Wire,Sana Wires,Singapore,Settled,Wire Transfer
+TXNE62D39F3,CUST004,Deepa Krishnan,Medium,ACC1008,Checking,2026-06-29 17:12:11,593990.66,1,Withdrawal,Self,India,Settled,Mobile App
+TXNC838B88A,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-29 17:42:36,9417.05,1,Transfer,S.A. Trade Corp,United States,Settled,Mobile App
+TXN0035669A,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-29 17:50:03,234153.55,1,Withdrawal,Self,India,Settled,Online Banking
+TXNE1D812E4,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-29 17:51:15,94464.73,1,Deposit,Self,India,Settled,Online Banking
+TXN2A8E4BEB,CUST006,Sanjay Singhania,High,ACC1012,Checking,2026-06-29 21:45:57,56188.72,1,Withdrawal,Self,India,Settled,Mobile App
+TXNA210F1B4,CUST001,Priya Patel,Low,ACC1004,Checking,2026-06-29 22:48:02,41873.66,1,Transfer,Global Trading Ltd,Japan,Settled,Online Banking
+TXN0E589064,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-06-29 23:01:41,627777.9,1,Transfer,Nexus Logistics,India,Settled,Online Banking
+TXN6AB10F80,CUST005,Amit Verma,Low,ACC1011,Checking,2026-06-30 01:29:43,164042.47,1,Withdrawal,Self,India,Settled,Online Banking
+TXN0B109C2C,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-06-30 01:38:52,24824.04,1,Deposit,Self,India,Settled,Online Banking
+TXN5F63F604,CUST005,Amit Verma,Low,ACC1010,Checking,2026-06-30 02:09:33,2280347.29,1,Wire,Pyongyang Export,Japan,Settled,Wire Transfer
+TXNCC44F1FF,CUST008,Karan Johar,Low,ACC1014,Checking,2026-06-30 04:38:57,39074.6,1,Deposit,Self,India,Settled,Online Banking
+TXND8B0D84F,CUST010,Amrita Sen,High,ACC1021,Savings,2026-06-30 06:10:00,66515.29,1,Deposit,Self,India,Declined,Mobile App
+TXNAB2EE80F,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-30 09:00:25,202222.49,1,Withdrawal,Self,India,Settled,Mobile App
+TXNB59EF253,CUST000,Rohan Sharma,Low,ACC1000,Checking,2026-06-30 09:41:10,238233.66,1,Wire,Damascus Trading,United Kingdom,Settled,Wire Transfer
+TXNC74BBCC9,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-06-30 10:37:22,45334.61,1,Withdrawal,Self,India,Settled,Online Banking
+TXN92637612,CUST001,Priya Patel,Low,ACC1003,Checking,2026-06-30 15:36:03,169997.36,1,Deposit,Self,India,Settled,Online Banking
+TXN7B8B0ECC,CUST004,Deepa Krishnan,Medium,ACC1009,Business,2026-06-30 16:15:25,1296175.95,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXN6943B983,CUST000,Rohan Sharma,Low,ACC1002,Business,2026-06-30 22:34:27,320512.61,1,Withdrawal,Self,India,Settled,Mobile App
+TXNADF27901,CUST008,Karan Johar,Low,ACC1016,Checking,2026-07-01 02:07:29,96993.2,1,Deposit,Self,India,Settled,Mobile App
+TXNCAE09BD7,CUST007,Jaspreet Singh,Medium,ACC1013,Business,2026-07-01 04:17:15,584084.37,1,Withdrawal,Self,India,Settled,Mobile App
+TXND17D5719,CUST008,Karan Johar,Low,ACC1016,Checking,2026-07-01 06:07:07,42696.65,1,Transfer,S.A. Trade Corp,Singapore,Settled,Online Banking
+TXNC206788F,CUST002,Vikram Malhotra,High,ACC1005,Business,2026-07-01 07:27:44,1987786.24,1,Transfer,M. K. Holdings,Canada,Settled,Online Banking
+TXN9595166E,CUST009,Anjali Gupta,Low,ACC1018,Business,2026-07-01 07:49:43,1808043.49,1,Withdrawal,Self,India,Settled,Mobile App
+TXNDB6C6E33,CUST004,Deepa Krishnan,Medium,ACC1007,Business,2026-07-01 08:06:08,753889.01,1,Wire,M. K. Holdings,Australia,Settled,Wire Transfer
+TXNAF73987A,CUST011,Ravi Shastri,Low,ACC1022,Savings,2026-07-01 09:03:58,128515.07,1,Withdrawal,Self,India,Settled,Online Banking

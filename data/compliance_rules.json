@@ -1,0 +1,105 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "id": "R001",
+      "name": "SEBI Block Deal Reporting",
+      "description": "Block deals with notional value above ₹10,000,000 (1 Crore) must be reported to the exchange immediately.",
+      "field": "notional",
+      "operator": ">",
+      "threshold": 10000000,
+      "severity": "HIGH",
+      "regulation": "SEBI Block Deal Guidelines"
+    },
+    {
+      "id": "R002",
+      "name": "Standard Exchange Trading Hours",
+      "description": "Trades executed outside standard trading hours (09:00–17:00 IST) require special clearing pre-approval.",
+      "field": "hour",
+      "operator": "not_in_range",
+      "threshold": [9, 17],
+      "severity": "MEDIUM",
+      "regulation": "SEBI Exchange Trading Regulations"
+    },
+    {
+      "id": "R003",
+      "name": "SEBI Contract Lot Size Limit",
+      "description": "Derivative trades with contract size values below ₹500,000 require consolidation to prevent order fragmentation.",
+      "field": "notional",
+      "operator": "<",
+      "threshold": 500000,
+      "severity": "LOW",
+      "regulation": "SEBI Derivative Lot Size Regulation"
+    },
+    {
+      "id": "R004",
+      "name": "KYC Completeness Audit",
+      "description": "All customer account transactions must have verified customer_id (trader_id), channel (venue), and counterparty populated.",
+      "field": "completeness",
+      "operator": "null_check",
+      "threshold": ["trader_id", "venue", "counterparty"],
+      "severity": "HIGH",
+      "regulation": "RBI Master Direction - KYC Guidelines"
+    },
+    {
+      "id": "R005",
+      "name": "CCIL Unique Trade Identifier",
+      "description": "Each transaction must have a unique trade_id to prevent duplicate submissions to Clearing Corporation of India.",
+      "field": "trade_id",
+      "operator": "unique",
+      "threshold": null,
+      "severity": "CRITICAL",
+      "regulation": "RBI Trade Repository Reporting Rules"
+    },
+    {
+      "id": "R006",
+      "name": "RBI Large Exposure Limit",
+      "description": "A single counterparty exposure must not exceed 25% of the total daily desk capital/volume.",
+      "field": "counterparty_concentration",
+      "operator": ">",
+      "threshold": 0.25,
+      "severity": "HIGH",
+      "regulation": "RBI Large Exposure Framework (LEF)"
+    },
+    {
+      "id": "R007",
+      "name": "Algorithmic Order-to-Trade Ratio (OTR)",
+      "description": "High cancel rate (>10% volume) triggers exchange algotrading penalties.",
+      "field": "cancel_rate",
+      "operator": ">",
+      "threshold": 0.10,
+      "severity": "MEDIUM",
+      "regulation": "SEBI Algorithmic Trading Guidelines"
+    },
+    {
+      "id": "R008",
+      "name": "Price Reasonableness Check",
+      "description": "Trade price must not deviate by more than 3 standard deviations from the asset's mean trading price.",
+      "field": "price_zscore",
+      "operator": ">",
+      "threshold": 3.0,
+      "severity": "HIGH",
+      "regulation": "SEBI PFUTP Regulations (Market Integrity)"
+    },
+    {
+      "id": "R009",
+      "name": "Volume Manipulation Check",
+      "description": "Trade quantities deviating by more than 3 standard deviations trigger front-running surveillance warnings.",
+      "field": "quantity_zscore",
+      "operator": ">",
+      "threshold": 3.0,
+      "severity": "HIGH",
+      "regulation": "SEBI PFUTP Regulations (Anti-Manipulation)"
+    },
+    {
+      "id": "R010",
+      "name": "SEBI T+1 Settlement Age Limit",
+      "description": "Equity/Derivative trades remaining pending for more than 1 business day breach the mandatory T+1 cycle.",
+      "field": "pending_age_days",
+      "operator": ">",
+      "threshold": 1,
+      "severity": "HIGH",
+      "regulation": "SEBI Mandated T+1 Settlement Cycle"
+    }
+  ]
+}

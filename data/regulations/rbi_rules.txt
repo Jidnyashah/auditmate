@@ -1,0 +1,10 @@
+RBI (Reserve Bank of India) Master Directions & KYC Guidelines
+
+1. RBI Master Direction - Know Your Customer (KYC) Guidelines
+Under the RBI Master Directions on KYC, all banking institutions and regulated entities must ensure mandatory compliance controls. Every financial transaction must include a verified customer_id (trader_id), transaction channel (venue), and counterparty name. Missing parameters constitute a critical KYC policy violation.
+
+2. RBI Large Exposure Framework (LEF)
+The RBI Large Exposure Framework is designed to manage credit risk and systemic exposure. The framework restricts a bank's exposure to a single counterparty or group of connected counterparties. A single counterparty exposure must not exceed 25% of the bank's eligible capital base or daily desk volume.
+
+3. RBI Trade Reporting and CCIL Guidelines
+All derivative and money market transactions must be reported to the designated Trade Repository (TR) operated by the Clearing Corporation of India (CCIL). Every transaction must contain a unique trade_id to ensure single-count submission. Duplicate Trade IDs are flagged as critical reporting failures.
