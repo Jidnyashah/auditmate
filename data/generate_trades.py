@@ -135,6 +135,13 @@ def inject_anomalies(trades: list[dict]) -> list[dict]:
         t["is_flagged"] = True
         anomaly_pool.append(t)
 
+    # 6. Minor deviation (Low severity) - 10 trades
+    for _ in range(10):
+        t = normal_trade(-1)
+        t["anomaly_type"] = "minor_deviation"
+        t["is_flagged"] = True
+        anomaly_pool.append(t)
+
     return anomaly_pool
 
 

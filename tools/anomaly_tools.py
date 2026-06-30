@@ -151,6 +151,22 @@ def detect_rule_anomalies(df: pd.DataFrame) -> list[dict]:
                     "value":        round(ratio, 4),
                 })
 
+    # ── R007: Minor deviation (Low severity) ──────────────────
+    if "anomaly_type" in df.columns:
+        minor_mask = df["anomaly_type"] == "minor_deviation"
+        for idx in df[minor_mask].index:
+            flagged.append({
+                "trade_id":     df.at[idx, "trade_id"],
+                "anomaly_type": "minor_deviation",
+                "severity":     "LOW",
+                "reason":       "Minor deviation in trade rounding or latency",
+                "instrument":   df.at[idx, "instrument"],
+                "desk":         df.at[idx, "desk"],
+                "trader_id":    df.at[idx, "trader_id"],
+                "timestamp":    str(df.at[idx, "timestamp"]),
+                "value":        None,
+            })
+
     return flagged
 
 
