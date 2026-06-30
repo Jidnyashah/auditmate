@@ -20,12 +20,13 @@ class GeminiEmbeddingFunction(chromadb.EmbeddingFunction):
             return []
         from google import genai
         client = genai.Client(api_key=config.GOOGLE_API_KEY)
-        response = client.models.embed_content(
-            model="text-embedding-004",
-            contents=input,
-        )
-        # response.embeddings is a list where each element has a .values property
-        return [emb.values for emb in response.embeddings]
+        return [
+            client.models.embed_content(
+                model="gemini-embedding-2",
+                contents=text,
+            ).embeddings[0].values
+            for text in input
+        ]
 
 _EMBED_FN = GeminiEmbeddingFunction()
 
