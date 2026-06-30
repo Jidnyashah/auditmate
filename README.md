@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Add your API key
-Create or edit `.env` in the root directory:
+Create or edit the `.env` file in the project's root directory (`auditmate/.env`):
 ```env
 GOOGLE_API_KEY=your_actual_key_here
 ```
