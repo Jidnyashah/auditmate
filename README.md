@@ -20,7 +20,7 @@ AuditMate is a multi-agent AI system that helps compliance and operations teams 
 
 ---
 
-## Quick Start
+## Quick Start (Steps to run the app)
 
 ### 1. Clone / Navigate to the project
 ```bash
@@ -51,14 +51,20 @@ Edit the `.env` file in the project's root directory (`auditmate/.env`) and repl
 GOOGLE_API_KEY=your_actual_key_here
 ```
 
-### 5. Generate Synthetic Data
+### 5. Verify API Key and Connection (Optional)
+Run the diagnostic script to ensure your Gemini API key is configured and communicating correctly:
+```bash
+python scratch_check_api.py
+```
+
+### 6. Generate Synthetic Data
 Generate both trade and transaction datasets:
 ```bash
 python data/generate_trades.py
 python data/generate_customer_transactions.py
 ```
 
-### 6. Run the Dashboard
+### 7. Run the Dashboard
 ```bash
 streamlit run ui/dashboard.py
 ```
