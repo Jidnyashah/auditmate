@@ -2,6 +2,8 @@
 
 **Enterprise Regulatory Compliance Agent** — Capstone Project for *5-Day AI Agents: Intensive Vibe Coding Course With Google*
 
+👉 **Live Interactive Demo:** [https://auditmate.streamlit.app/](https://auditmate.streamlit.app/)
+
 > Powered by **Google ADK** · **Gemini 1.5 Flash** · **ChromaDB** · **Streamlit**
 
 ---
