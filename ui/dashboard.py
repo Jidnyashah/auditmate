@@ -5,6 +5,9 @@ AuditMate Streamlit Dashboard — 6-tab enterprise compliance UI.
 Run: streamlit run ui/dashboard.py
 """
 
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
