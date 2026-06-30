@@ -156,6 +156,15 @@ Orchestrator Agent (Root - orchestrator.py)
 
 ---
 
+## Retrieval-Augmented Generation (RAG)
+
+AuditMate uses RAG to answer queries regarding financial regulations without hallucinations:
+*   **Knowledge Base**: Documents under `data/regulations/` (e.g., `sebi_rules.txt`, `rbi_rules.txt`, `pmla_rules.txt`) are partitioned into overlapping text chunks.
+*   **Embeddings & Database**: Text chunks are converted into 384-dimensional vector embeddings using the `all-MiniLM-L6-v2` SentenceTransformer model and stored in a local, persistent **ChromaDB** vector database.
+*   **Contextual Q&A**: When querying regulations, the **Q&A Agent** (`qa_agent.py`) retrieves the most relevant rules from ChromaDB and passes them as grounding context to the Gemini model to compile a cited regulatory answer.
+
+---
+
 ## Capstone Concepts Demonstrated
 
 - ✅ Multi-Agent Orchestration (ADK agent-as-tool pattern)
@@ -165,3 +174,4 @@ Orchestrator Agent (Root - orchestrator.py)
 - ✅ Session State
 - ✅ Real-world domain (banking compliance)
 - ✅ Human-in-the-loop (flagged trades require review)
+
