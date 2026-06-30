@@ -46,7 +46,9 @@ pip install -r requirements.txt
 ```
 
 ### 4. Add your API key
-Edit the `.env` file in the project's root directory (`auditmate/.env`) and replace the placeholder with your actual Gemini API key:
+Edit the `.env` file in the project's root directory (`auditmate/.env`) and replace the placeholder with your actual Gemini API key.
+
+*Note: This file is modified locally with your private credentials and must not be committed to GitHub with your actual key.*
 ```env
 GOOGLE_API_KEY=your_actual_key_here
 ```
